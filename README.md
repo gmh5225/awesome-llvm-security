@@ -26,6 +26,7 @@
 - https://github.com/hunterzju/llvm-tutorial
 - https://github.com/KCreate/llvm-learning
 - https://github.com/danbev/learning-llvm
+- https://blog.csdn.net/wuhui_gdnt/article/details/61194221
 
 ## Clang Tutorial
 
