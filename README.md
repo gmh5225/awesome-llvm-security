@@ -24,6 +24,8 @@
 - https://github.com/Enna1/LLVM-Clang-Study-Notes
 - https://github.com/duduWang20/llvmbooks
 - https://github.com/hunterzju/llvm-tutorial
+- https://github.com/KCreate/llvm-learning
+- https://github.com/danbev/learning-llvm
 
 ## Clang Tutorial
 
