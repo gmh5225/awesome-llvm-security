@@ -15,6 +15,9 @@
 - https://github.com/o2e/OLLVM-9.0.1
 - https://github.com/wolfm/extended-gdop
 - https://github.com/bigBestWay/CodeObfs
+- https://github.com/SheLLVM/SheLLVM
+- https://github.com/amdx1254/capstone-design1-llvm-obfuscation
+- 
 
 
 ## LLVM Tutorial
