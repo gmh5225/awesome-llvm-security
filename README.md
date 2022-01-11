@@ -18,6 +18,7 @@
 - https://github.com/SheLLVM/SheLLVM
 - https://github.com/amdx1254/capstone-design1-llvm-obfuscation
 - https://github.com/Deniskore/llvm
+- https://github.com/samdspeare/othread
 
 
 ## LLVM Tutorial
