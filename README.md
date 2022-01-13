@@ -20,6 +20,10 @@
 - https://github.com/Deniskore/llvm
 - https://github.com/samdspeare/othread
 
+## LIFT
+- https://github.com/avast/retdec
+- https://github.com/lifting-bits/mcsema
+- https://github.com/LLVMParty/TicklingVMProtect
 
 ## LLVM Tutorial
 
