@@ -19,11 +19,17 @@
 - https://github.com/amdx1254/capstone-design1-llvm-obfuscation
 - https://github.com/Deniskore/llvm
 - https://github.com/samdspeare/othread
+- https://github.com/NudistBeaaach/Chained-CFG-obfuscation-pass
+- https://github.com/veritas501/ToyObfuscator
+- https://github.com/tsarpaul/llvm-string-obfuscator
 
 ## LIFT
 - https://github.com/avast/retdec
 - https://github.com/lifting-bits/mcsema
 - https://github.com/LLVMParty/TicklingVMProtect
+
+## Monitor
+- https://github.com/trailofbits/monitoring_linux_events
 
 ## LLVM Tutorial
 
