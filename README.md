@@ -35,6 +35,7 @@
 - https://github.com/Evian-Zhang/llvm-ir-tutorial [LLVM IR]
 - https://github.com/Virtual-Machine/llvm-tutorial-book
 - https://github.com/Virtual-Machine/ir-examples [LLVM IR]
+- https://github.com/ronnie88597/Notes/tree/f206fa9998b1f6288193cb40e667e32165cf9f2b/llvm
 
 ## Clang Tutorial
 
