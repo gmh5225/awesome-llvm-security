@@ -36,6 +36,13 @@
 - https://github.com/secure-software-engineering/phasar
 - https://github.com/JohannesLiu/LLVM-Pass-Analysis-Collection
 
+## DIY Compiler
+- https://github.com/tylerweston/ccc
+- https://github.com/greydevv/cpp-compiler
+- https://github.com/stardust95/TinyCompiler
+- https://github.com/drop-stones/Tiny-C
+- https://github.com/Kingtous/WebC-llvm-compiler
+
 
 ## LLVM Tutorial
 
@@ -52,6 +59,9 @@
 - https://github.com/Virtual-Machine/llvm-tutorial-book
 - https://github.com/Virtual-Machine/ir-examples [LLVM IR]
 - https://github.com/ronnie88597/Notes/tree/f206fa9998b1f6288193cb40e667e32165cf9f2b/llvm
+- https://github.com/objwyh/Formatv [LLVM Formatv]
+- https://github.com/lahiri-phdworks/LLVM-Examples
+- https://github.com/michelou/llvm-examples/tree/master/examples
 
 ## Clang Tutorial
 
