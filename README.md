@@ -31,6 +31,10 @@
 ## Monitor
 - https://github.com/trailofbits/monitoring_linux_events
 
+## Static Analysis
+- https://github.com/secure-software-engineering/phasar
+
+
 ## LLVM Tutorial
 
 - https://github.com/banach-space/llvm-tutor
