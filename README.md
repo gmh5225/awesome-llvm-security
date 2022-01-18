@@ -27,6 +27,7 @@
 - https://github.com/avast/retdec
 - https://github.com/lifting-bits/mcsema
 - https://github.com/LLVMParty/TicklingVMProtect
+- https://github.com/microsoft/llvm-mctoll
 
 ## Monitor
 - https://github.com/trailofbits/monitoring_linux_events
