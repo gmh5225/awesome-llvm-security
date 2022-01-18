@@ -43,6 +43,7 @@
 - https://github.com/stardust95/TinyCompiler
 - https://github.com/drop-stones/Tiny-C
 - https://github.com/Kingtous/WebC-llvm-compiler
+- https://github.com/tamphi/CompilerDesign-LLVM
 
 
 ## LLVM Tutorial
