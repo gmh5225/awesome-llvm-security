@@ -37,6 +37,7 @@
 - https://github.com/secure-software-engineering/phasar
 - https://github.com/JohannesLiu/LLVM-Pass-Analysis-Collection
 - https://github.com/andreasfertig/cppinsights
+- https://github.com/SCRT/avcleaner
 
 ## DIY Compiler
 - https://github.com/microsoft/checkedc-clang
