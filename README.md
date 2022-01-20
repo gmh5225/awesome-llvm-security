@@ -47,6 +47,7 @@
 - https://github.com/drop-stones/Tiny-C
 - https://github.com/Kingtous/WebC-llvm-compiler
 - https://github.com/tamphi/CompilerDesign-LLVM
+- https://github.com/PLC-lang/rusty
 
 ## Test Tools
 - https://godbolt.org/
