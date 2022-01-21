@@ -52,6 +52,8 @@
 ## Transfer
 - https://github.com/sbip-sg/tsll
 
+## Security Features
+- https://github.com/llvm/llvm-project/commit/82af95029ec947fed8b9c516f04d4f217bd87930
 
 ## Test Tools
 - https://godbolt.org/
