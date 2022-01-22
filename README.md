@@ -29,6 +29,8 @@
 - https://github.com/LLVMParty/TicklingVMProtect
 - https://github.com/microsoft/llvm-mctoll
 - https://github.com/sh4m2hwz/triton_ast_llvm_ir_translator
+- https://github.com/aengelke/binopt
+- https://github.com/aengelke/rellume
 
 ## Monitor
 - https://github.com/trailofbits/monitoring_linux_events
