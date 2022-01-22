@@ -22,6 +22,7 @@
 - https://github.com/NudistBeaaach/Chained-CFG-obfuscation-pass
 - https://github.com/veritas501/ToyObfuscator
 - https://github.com/tsarpaul/llvm-string-obfuscator
+- https://github.com/crvvdev/obfuscator
 
 ## LIFT
 - https://github.com/avast/retdec
