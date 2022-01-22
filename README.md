@@ -79,6 +79,7 @@
 - https://github.com/lahiri-phdworks/LLVM-Examples
 - https://github.com/michelou/llvm-examples/tree/master/examples
 - https://llvm.org/docs/MIRLangRef.html [LLVM MIR]
+- https://llvm.org/docs/PDB/index.html [LLVM PDB]
 
 ## Clang Tutorial
 
