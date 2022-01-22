@@ -78,6 +78,7 @@
 - https://github.com/objwyh/Formatv [LLVM Formatv]
 - https://github.com/lahiri-phdworks/LLVM-Examples
 - https://github.com/michelou/llvm-examples/tree/master/examples
+- https://llvm.org/docs/MIRLangRef.html [LLVM MIR]
 
 ## Clang Tutorial
 
