@@ -49,6 +49,7 @@
 - https://github.com/tamphi/CompilerDesign-LLVM
 - https://github.com/PLC-lang/rusty
 - https://github.com/henne90gen/Neon
+- https://github.com/tinygo-org/tinygo [GO]
 
 ## Transfer
 - https://github.com/sbip-sg/tsll
