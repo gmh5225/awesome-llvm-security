@@ -43,6 +43,7 @@
 - https://github.com/JohannesLiu/LLVM-Pass-Analysis-Collection
 - https://github.com/andreasfertig/cppinsights
 - https://github.com/SCRT/avcleaner
+- https://github.com/Ericsson/codechecker
 
 ## DIY Compiler
 - https://github.com/microsoft/checkedc-clang
