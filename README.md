@@ -45,6 +45,7 @@
 - https://github.com/andreasfertig/cppinsights
 - https://github.com/SCRT/avcleaner
 - https://github.com/Ericsson/codechecker
+- https://github.com/franchiotta/taintchecker
 
 ## DIY Compiler
 - https://github.com/microsoft/checkedc-clang
