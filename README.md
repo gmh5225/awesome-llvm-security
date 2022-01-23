@@ -64,6 +64,9 @@
 ## Security Features
 - https://github.com/llvm/llvm-project/commit/82af95029ec947fed8b9c516f04d4f217bd87930
 
+## MSVC Features
+- https://github.com/llvm/llvm-project/commit/37d1d02200b9472082304c191f396f0489d00e05
+
 ## Test Tools
 - https://godbolt.org/
 
