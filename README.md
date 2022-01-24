@@ -92,6 +92,7 @@
 - https://github.com/michelou/llvm-examples/tree/master/examples
 - https://llvm.org/docs/MIRLangRef.html [LLVM MIR]
 - https://llvm.org/docs/PDB/index.html [LLVM PDB]
+- https://github.com/bigconvience/llvm-ir-in-action [LLVM IR Examples]
 
 ## Clang Tutorial
 
