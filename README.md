@@ -36,6 +36,9 @@
 ## Monitor
 - https://github.com/trailofbits/monitoring_linux_events
 
+## eBPF
+- https://github.com/elastic/bpfcov
+
 ## Dynamic Binary Instrumentation
 - https://github.com/aengelke/instrew
 - https://github.com/aengelke/binopt
