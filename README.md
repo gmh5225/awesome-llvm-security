@@ -87,6 +87,7 @@
 - https://llvm.discourse.group/t/beginner-resources-documentation/5872 [LLVM Community]
 - https://github.com/banach-space/llvm-tutor
 - https://github.com/xiaoweiChen/Learn-LLVM-12
+- https://github.com/xiaoweiChen/LLVM-Techniques-Tips-and-Best-Practies
 - https://github.com/Enna1/LLVM-Clang-Study-Notes
 - https://github.com/duduWang20/llvmbooks
 - https://github.com/hunterzju/llvm-tutorial
