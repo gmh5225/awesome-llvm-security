@@ -79,6 +79,10 @@
 - https://github.com/llvm/llvm-project/commit/37d1d02200b9472082304c191f396f0489d00e05
 
 
+## Optimization
+- https://discourse.llvm.org/t/rfc-cmov-vs-branch-optimization/6040
+
+
 ## Test Tools
 - https://godbolt.org/
 
