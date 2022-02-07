@@ -127,3 +127,7 @@
 - https://github.com/andreasfertig/programming-with-cpp20
 - https://github.com/AnthonyCalandra/modern-cpp-features
 
+## Security Book
+- https://github.com/llsoftsec/llsoftsecbook
+
+
