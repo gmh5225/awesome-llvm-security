@@ -33,6 +33,7 @@
 - https://github.com/aengelke/rellume
 - https://github.com/andybalholm/leaven [IR->GO]
 - https://github.com/JonathanSalwan/Triton/issues/1078
+- https://github.com/DCNick3/rusty-x86
 
 ## Monitor
 - https://github.com/trailofbits/monitoring_linux_events
