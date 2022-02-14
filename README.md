@@ -36,6 +36,9 @@
 - https://github.com/DCNick3/rusty-x86
 - https://github.com/JonathanSalwan/Triton/wiki
 - https://github.com/JonathanSalwan/Triton/issues/1085
+- https://github.com/JonathanSalwan/Triton/commit/0753a0c097fe637beb25b428ff2f0983f14f96d9
+- https://github.com/JonathanSalwan/Triton/commit/7af202df2064a6dc95d7fa4bd0dbe5635e5a44fa
+- https://github.com/JonathanSalwan/Triton/commit/4e42a22c7a4d970c81875f6474adf284187b452b
 
 ## Monitor
 - https://github.com/trailofbits/monitoring_linux_events
