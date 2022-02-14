@@ -34,6 +34,7 @@
 - https://github.com/andybalholm/leaven [IR->GO]
 - https://github.com/JonathanSalwan/Triton/issues/1078
 - https://github.com/DCNick3/rusty-x86
+- https://github.com/JonathanSalwan/Triton/wiki/Home/2d3a7882ede1d8cabe6f9b2bad4ffdbb7c3da49f
 
 ## Monitor
 - https://github.com/trailofbits/monitoring_linux_events
