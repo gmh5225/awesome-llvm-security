@@ -82,6 +82,7 @@
 
 ## MSVC Features
 - https://github.com/llvm/llvm-project/commit/37d1d02200b9472082304c191f396f0489d00e05
+- https://github.com/llvm/llvm-project/commit/3e19ba36fca9fa0b6aba0de2767f26dfd463cb5a
 
 
 ## Optimization
