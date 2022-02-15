@@ -111,6 +111,8 @@
 - https://github.com/danbev/learning-llvm
 - https://blog.csdn.net/wuhui_gdnt/article/details/61194221
 - https://blog.csdn.net/dreammeard/article/details/19493599 [LLVM Metadata]
+- https://blog.csdn.net/dreammeard/article/details/19827141 [LLVM DominatorTree]
+- https://blog.csdn.net/weixin_46222091/article/details/105420409 [LLVM Callgraph]
 - https://github.com/Evian-Zhang/llvm-ir-tutorial [LLVM IR]
 - https://github.com/Virtual-Machine/llvm-tutorial-book
 - https://github.com/Virtual-Machine/ir-examples [LLVM IR]
