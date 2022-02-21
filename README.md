@@ -142,4 +142,8 @@
 ## Security Book
 - https://github.com/llsoftsec/llsoftsecbook
 
+## Compiler Book
+- http://www.craftinginterpreters.com/contents.html
+- https://github.com/GuoYaxiang/craftinginterpreters_zh
+
 
