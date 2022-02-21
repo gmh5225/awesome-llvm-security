@@ -42,6 +42,7 @@
 
 ## Monitor
 - https://github.com/trailofbits/monitoring_linux_events
+- https://github.com/AndHager/SysCallStubber
 
 ## eBPF
 - https://github.com/elastic/bpfcov
