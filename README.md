@@ -138,6 +138,7 @@
 ## CPP Tutorial
 - https://github.com/andreasfertig/programming-with-cpp20
 - https://github.com/AnthonyCalandra/modern-cpp-features
+- https://github.com/xiaoweiChen/CPP-Move-Semantics
 
 ## Security Book
 - https://github.com/llsoftsec/llsoftsecbook
