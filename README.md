@@ -23,6 +23,7 @@
 - https://github.com/veritas501/ToyObfuscator
 - https://github.com/tsarpaul/llvm-string-obfuscator
 - https://github.com/crvvdev/obfuscator
+- https://github.com/bluesadi/Pluto-Obfuscator
 
 ## LIFT
 - https://github.com/avast/retdec
