@@ -75,6 +75,7 @@
 - https://github.com/henne90gen/Neon
 - https://github.com/tinygo-org/tinygo [GO]
 - https://github.com/ab25cq/comelang
+- https://github.com/sleirsgoevy/ps4-rop-8cc
 
 ## Transfer
 - https://github.com/sbip-sg/tsll
