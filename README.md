@@ -48,6 +48,9 @@
 ## eBPF
 - https://github.com/elastic/bpfcov
 
+## WASM
+- https://github.com/leaningtech/cheerp-compiler
+
 ## Dynamic Binary Instrumentation
 - https://github.com/aengelke/instrew
 - https://github.com/aengelke/binopt
