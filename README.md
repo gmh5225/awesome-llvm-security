@@ -62,6 +62,7 @@
 - https://github.com/SCRT/avcleaner
 - https://github.com/Ericsson/codechecker
 - https://github.com/franchiotta/taintchecker
+- https://github.com/mchalupa/dg
 
 ## DIY Compiler
 - https://github.com/microsoft/checkedc-clang
