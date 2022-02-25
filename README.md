@@ -24,6 +24,7 @@
 - https://github.com/tsarpaul/llvm-string-obfuscator
 - https://github.com/crvvdev/obfuscator
 - https://github.com/bluesadi/Pluto-Obfuscator
+- https://github.com/MaxXor/obfuscator-llvm
 
 ## LIFT
 - https://github.com/avast/retdec
