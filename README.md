@@ -37,6 +37,7 @@
 - https://github.com/JonathanSalwan/Triton/issues/1078
 - https://github.com/DCNick3/rusty-x86
 - https://github.com/nevillegrech/gigahorse-toolchain [EVM]
+- https://github.com/balayette/saphIR-project
 - https://github.com/JonathanSalwan/Triton/wiki
 - https://github.com/JonathanSalwan/Triton/issues/1085
 - https://github.com/JonathanSalwan/Triton/commit/0753a0c097fe637beb25b428ff2f0983f14f96d9
