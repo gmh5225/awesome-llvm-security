@@ -87,6 +87,7 @@
 - https://github.com/mirkosertic/Bytecoder [JAVA]
 - https://github.com/ab25cq/comelang
 - https://github.com/evanacox/honors-forum-project
+- https://github.com/rui314/chibicc
 
 ## Transfer
 - https://github.com/sbip-sg/tsll
