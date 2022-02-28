@@ -69,6 +69,7 @@
 - https://github.com/Ericsson/codechecker
 - https://github.com/franchiotta/taintchecker
 - https://github.com/mchalupa/dg
+- https://github.com/fadyosman/LLVMTaintAnalysis
 
 ## DIY Compiler
 - https://github.com/microsoft/checkedc-clang
