@@ -83,6 +83,10 @@
 - https://github.com/tinygo-org/tinygo [GO]
 - https://github.com/ab25cq/comelang
 - https://github.com/sleirsgoevy/ps4-rop-8cc
+- https://github.com/egunnarsson/llfp
+- https://github.com/mirkosertic/Bytecoder
+- https://github.com/ab25cq/comelang
+- https://github.com/evanacox/honors-forum-project
 
 ## Transfer
 - https://github.com/sbip-sg/tsll
