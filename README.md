@@ -114,6 +114,7 @@
 - https://github.com/llvm/llvm-project/commit/3e19ba36fca9fa0b6aba0de2767f26dfd463cb5a
 - https://reviews.llvm.org/D80344 [SEH]
 - https://reviews.llvm.org/D102817 [SEH]
+- https://github.com/MicrosoftDocs/cpp-docs/tree/main/docs/intrinsics [intrinsics]
 
 
 ## Optimization
