@@ -125,6 +125,7 @@
 - https://github.com/llvm/llvm-project/commit/e03d216c28dfbda52afe7e1f6606cc5dafb3235e
 - https://github.com/llvm/llvm-project/commit/75c4a9270649020710ca86c00e4a89788661b067
 - https://github.com/llvm/llvm-project/commit/c1b9667148105d99f4792b46805b6a4d2aea4a6e
+- https://github.com/llvm/llvm-project/commit/940d7cd59f88d78af443091e75a33a39ce098fbe
 
 
 ## Testing Tools
