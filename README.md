@@ -26,6 +26,7 @@
 - https://github.com/bluesadi/Pluto-Obfuscator
 - https://github.com/MaxXor/obfuscator-llvm
 - https://github.com/svv232/1nsanity
+- https://github.com/nlykkei/llvm-ir-obfuscation
 
 ## LIFT
 - https://github.com/avast/retdec
