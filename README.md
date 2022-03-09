@@ -74,6 +74,8 @@
 - https://github.com/fadyosman/LLVMTaintAnalysis
 - https://github.com/llvm/llvm-project/commit/34a7387986a68835680a8b7bef0ea091d57d28b0 [Taint analysis]
 - https://github.com/joernio/joern
+- https://github.com/enochii/simple-pointer-analysis [Pointer analysis]
+- https://github.com/grievejia/andersen [Pointer analysis]
 
 ## DIY Compiler
 - https://github.com/microsoft/checkedc-clang
