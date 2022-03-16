@@ -98,6 +98,9 @@
 - https://github.com/Nicholas-Baron/little-lang
 - https://github.com/tj/luna
 
+## Clang Plugins
+- https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
+
 ## LLD
 - https://github.com/llvm/llvm-project/commit/9dd2d50984f5b02e19d3576812dc9b09ddcc9483 [COFF]
 
@@ -165,7 +168,6 @@
 - https://github.com/bigconvience/llvm-ir-in-action [LLVM IR Examples]
 
 ## Clang Tutorial
-
 - https://github.com/banach-space/clang-tutor
 - https://github.com/lahiri-phdworks/LLVM-Examples/tree/master/ClangAST
 - https://github.com/ronnie88597/Notes/tree/master/clang
