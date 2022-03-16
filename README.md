@@ -130,6 +130,7 @@
 - https://github.com/llvm/llvm-project/commit/c1b9667148105d99f4792b46805b6a4d2aea4a6e
 - https://github.com/llvm/llvm-project/commit/940d7cd59f88d78af443091e75a33a39ce098fbe
 - https://github.com/wlingze/llvm_opt
+- https://github.com/llvm/llvm-project/commit/e3deb7d88b0cd6d15a7b5a345d94c37ff6262bb4
 
 
 ## Testing Tools
