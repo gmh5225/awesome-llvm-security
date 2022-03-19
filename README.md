@@ -101,6 +101,7 @@
 - https://github.com/rui314/chibicc
 - https://github.com/Nicholas-Baron/little-lang
 - https://github.com/tj/luna
+- https://github.com/fanx-dev/fanx
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
