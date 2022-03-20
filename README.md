@@ -103,6 +103,7 @@
 - https://github.com/tj/luna
 - https://github.com/fanx-dev/fanx
 - https://github.com/PipeRift/rift
+- https://github.com/lotabout/write-a-C-interpreter
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
