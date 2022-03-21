@@ -178,6 +178,7 @@
 - https://llvm.org/docs/MIRLangRef.html [LLVM MIR]
 - https://llvm.org/docs/PDB/index.html [LLVM PDB]
 - https://github.com/bigconvience/llvm-ir-in-action [LLVM IR Examples]
+- https://github.com/alexjung/Writing-an-LLVM-Pass-using-the-new-PassManager [New Pass]
 
 ## Clang Tutorial
 - https://github.com/banach-space/clang-tutor
