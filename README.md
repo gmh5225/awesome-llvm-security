@@ -151,6 +151,7 @@
 
 ## Testing Tools
 - https://godbolt.org/
+- https://github.com/llvm/llvm-test-suite
 
 
 ## LLVM Tutorial
