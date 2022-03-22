@@ -81,6 +81,7 @@
 - https://github.com/joernio/joern
 - https://github.com/enochii/simple-pointer-analysis [Pointer analysis]
 - https://github.com/grievejia/andersen [Pointer analysis]
+- https://github.com/seahorn/clam
 
 ## DIY Compiler
 - https://github.com/microsoft/checkedc-clang
@@ -105,6 +106,7 @@
 - https://github.com/fanx-dev/fanx
 - https://github.com/PipeRift/rift
 - https://github.com/lotabout/write-a-C-interpreter
+- https://github.com/alinalihassan/Lesma
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
