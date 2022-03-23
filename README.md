@@ -28,6 +28,7 @@
 - https://github.com/MaxXor/obfuscator-llvm
 - https://github.com/svv232/1nsanity
 - https://github.com/nlykkei/llvm-ir-obfuscation
+- https://github.com/scrt/avcleaner [Based Clang]
 
 ## LIFT
 - https://github.com/avast/retdec
