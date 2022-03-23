@@ -11,7 +11,6 @@
 - https://github.com/DeNA/DeClang
 - https://github.com/0x3f97/ollvm-12.x
 - https://github.com/kk-laoguo/ollvm-13
-- https://github.com/isrc-cas/flounder
 - https://github.com/redheart923/ollvm-ext
 - https://github.com/o2e/OLLVM-9.0.1
 - https://github.com/wolfm/extended-gdop
