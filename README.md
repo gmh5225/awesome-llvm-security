@@ -165,6 +165,7 @@
 - https://github.com/NewWorldComingSoon/llvm-msvc-build [Testing Windows Driver]
 - https://github.com/crosire/blink
 - https://github.com/ykfre/BsodSurvivor [Debugging Windows Driver]
+- https://github.com/LouisJenkinsCS/LLVM-Simple-GUI [View DT&CFG]
 
 
 ## LLVM Tutorial
