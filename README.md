@@ -216,5 +216,6 @@
 ## Compiler Book
 - http://www.craftinginterpreters.com/contents.html
 - https://github.com/GuoYaxiang/craftinginterpreters_zh
+- https://github.com/tuoxie007/play_with_llvm [CN]
 
 
