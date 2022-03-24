@@ -115,6 +115,7 @@
 - https://github.com/theuni/bitcoin-tidy
 - https://github.com/gwangmu/clang-ast-plugin-template
 - https://github.com/foonathan/cppast
+- https://github.com/llvm/llvm-project/blob/main/clang/tools/clang-check/ClangCheck.cpp
 
 ## LLD
 - https://github.com/llvm/llvm-project/commit/9dd2d50984f5b02e19d3576812dc9b09ddcc9483 [COFF]
