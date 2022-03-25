@@ -118,6 +118,7 @@
 - https://github.com/gwangmu/clang-ast-plugin-template
 - https://github.com/foonathan/cppast
 - https://github.com/llvm/llvm-project/blob/main/clang/tools/clang-check/ClangCheck.cpp
+- https://chromium.googlesource.com/chromium/src/+/refs/heads/main/tools/clang/rewrite_to_chrome_style/RewriteToChromeStyle.cpp
 
 ## LLD
 - https://github.com/llvm/llvm-project/commit/9dd2d50984f5b02e19d3576812dc9b09ddcc9483 [COFF]
