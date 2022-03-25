@@ -65,6 +65,7 @@
 ## Dynamic Binary Instrumentation
 - https://github.com/aengelke/instrew
 - https://github.com/aengelke/binopt
+- https://github.com/QBDI/QBDI
 
 ## Runtime Check
 - https://github.com/danteisalive/llvm-typecheking
