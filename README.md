@@ -105,7 +105,6 @@
 - https://github.com/sleirsgoevy/ps4-rop-8cc
 - https://github.com/egunnarsson/llfp
 - https://github.com/mirkosertic/Bytecoder [JAVA]
-- https://github.com/ab25cq/comelang
 - https://github.com/evanacox/honors-forum-project
 - https://github.com/rui314/chibicc
 - https://github.com/Nicholas-Baron/little-lang
