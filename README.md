@@ -113,6 +113,7 @@
 - https://github.com/RoryBrennan1999/PythonCompiler
 - https://github.com/skvadrik/re2c [Lexer]
 - https://github.com/SimplyDanny/bitsy-llvm
+- https://github.com/mikelma/oktac
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
