@@ -67,6 +67,10 @@
 - https://github.com/aengelke/binopt
 - https://github.com/QBDI/QBDI
 
+## Symbolic Execution
+- https://github.com/insufficiently-caffeinated/caffeine
+
+
 ## Runtime Check
 - https://github.com/danteisalive/llvm-typecheking
 
