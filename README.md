@@ -117,6 +117,7 @@
 - https://github.com/skvadrik/re2c [Lexer]
 - https://github.com/SimplyDanny/bitsy-llvm
 - https://github.com/mikelma/oktac
+- https://github.com/One-Language/One
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
