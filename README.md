@@ -124,6 +124,7 @@
 - https://github.com/arcsysu/SYsU-lang
 - https://github.com/skyzluo/CS143-Compilers-Stanford
 - https://github.com/TinyCC/tinycc [tcc]
+- https://github.com/rswier/c4 [c4]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
