@@ -123,6 +123,7 @@
 - https://github.com/jfecher/ante
 - https://github.com/arcsysu/SYsU-lang
 - https://github.com/skyzluo/CS143-Compilers-Stanford
+- https://github.com/TinyCC/tinycc [tcc]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
