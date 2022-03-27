@@ -119,6 +119,7 @@
 - https://github.com/mikelma/oktac
 - https://github.com/One-Language/One
 - https://github.com/adorad/adorad
+- https://github.com/jfecher/ante
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
