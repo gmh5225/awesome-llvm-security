@@ -28,6 +28,7 @@
 - https://github.com/svv232/1nsanity
 - https://github.com/nlykkei/llvm-ir-obfuscation
 - https://github.com/scrt/avcleaner [Based Clang]
+- https://github.com/za233/LLVMMyPass
 
 ## LIFT
 - https://github.com/avast/retdec
