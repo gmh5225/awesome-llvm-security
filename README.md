@@ -128,6 +128,7 @@
 - https://github.com/EarlGray/c4 [c4 jit]
 - https://bellard.org/otcc [otcc-c4]
 - https://github.com/sand-lang/sand
+- https://github.com/fly-lang/fly
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
