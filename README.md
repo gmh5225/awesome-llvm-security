@@ -130,6 +130,7 @@
 - https://github.com/sand-lang/sand
 - https://github.com/fly-lang/fly
 - https://github.com/RainingComputers/ShnooTalk
+- https://github.com/spicelang/spice
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
