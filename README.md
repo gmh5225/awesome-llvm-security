@@ -71,9 +71,11 @@
 ## Symbolic Execution
 - https://github.com/insufficiently-caffeinated/caffeine
 
-
 ## Runtime Check
 - https://github.com/danteisalive/llvm-typecheking
+
+## Mathematics related
+- https://github.com/vgvassilev/clad
 
 ## Static Analysis
 - https://github.com/secure-software-engineering/phasar
@@ -139,6 +141,7 @@
 - https://github.com/foonathan/cppast
 - https://github.com/llvm/llvm-project/blob/main/clang/tools/clang-check/ClangCheck.cpp
 - https://chromium.googlesource.com/chromium/src/+/refs/heads/main/tools/clang/rewrite_to_chrome_style/RewriteToChromeStyle.cpp
+- https://github.com/vgvassilev/clad [Math]
 
 ## LLD
 - https://github.com/llvm/llvm-project/commit/9dd2d50984f5b02e19d3576812dc9b09ddcc9483 [COFF]
