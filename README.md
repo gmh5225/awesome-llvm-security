@@ -94,6 +94,9 @@
 - https://github.com/Veridise/Vanguard [Smart Contracts]
 - https://github.com/KDE/clazy [Qt]
 
+## Crash Analysis
+- https://github.com/cisco-open/llvm-crash-analyzer
+
 ## DIY Compiler
 - https://github.com/microsoft/checkedc-clang
 - https://github.com/tylerweston/ccc
