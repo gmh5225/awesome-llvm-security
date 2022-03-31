@@ -202,6 +202,7 @@
 
 ## LLVM Tutorial
 - https://llvm.discourse.group/t/beginner-resources-documentation/5872 [LLVM Community]
+- https://github.com/mikeroyal/LLVM-Guide
 - https://github.com/banach-space/llvm-tutor
 - https://github.com/xiaoweiChen/Learn-LLVM-12
 - https://github.com/xiaoweiChen/LLVM-Techniques-Tips-and-Best-Practies
