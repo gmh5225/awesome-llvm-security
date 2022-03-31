@@ -138,6 +138,7 @@
 - https://github.com/RainingComputers/ShnooTalk
 - https://github.com/spicelang/spice
 - https://github.com/Spencer-Comin/Fern
+- https://github.com/Gun9niR/Basic
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
