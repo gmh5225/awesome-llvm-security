@@ -92,6 +92,7 @@
 - https://github.com/grievejia/andersen [Pointer analysis]
 - https://github.com/seahorn/clam
 - https://github.com/Veridise/Vanguard [Smart Contracts]
+- https://github.com/KDE/clazy [Qt]
 
 ## DIY Compiler
 - https://github.com/microsoft/checkedc-clang
