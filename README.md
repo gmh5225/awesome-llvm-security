@@ -194,6 +194,7 @@
 - https://github.com/llvm/llvm-project/commit/b90478d4220ce5c13b8c8e613e23300cea2fd8b1
 - https://reviews.llvm.org/D122084
 - https://github.com/NewWorldComingSoon/llvm-msvc/commit/5fd945166862377be390948c9ab7dab2f47df217
+- https://github.com/llvm/llvm-project/commit/a5f637bcbb7d1e08ce637f113fc117c3f4b2b110
 
 
 ## Testing Tools
