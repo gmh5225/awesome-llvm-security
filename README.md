@@ -49,6 +49,7 @@
 - https://github.com/JonathanSalwan/Triton/commit/4e42a22c7a4d970c81875f6474adf284187b452b
 - https://github.com/ergo720/lib86cpu
 - https://github.com/fvrmatteo/TritonASTLLVMIRTranslator
+- https://github.com/toor-de-force/Ghidra-to-LLVM
 
 ## JIT
 - https://github.com/hfinkel/llvm-project-cxxjit
