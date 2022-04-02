@@ -153,6 +153,7 @@
 
 ## LLD
 - https://github.com/llvm/llvm-project/commit/9dd2d50984f5b02e19d3576812dc9b09ddcc9483 [COFF]
+- https://github.com/llvm/llvm-project/commit/98bc304e9faded44f1d8988ffa4c5d8b50c759ec [COFF]
 
 ## Transfer
 - https://github.com/sbip-sg/tsll
