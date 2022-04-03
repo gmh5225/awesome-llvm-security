@@ -145,6 +145,7 @@
 - https://github.com/spicelang/spice
 - https://github.com/Spencer-Comin/Fern
 - https://github.com/savi-lang/savi
+- https://github.com/artagnon/rhine
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
