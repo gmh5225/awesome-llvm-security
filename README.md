@@ -29,6 +29,7 @@
 - https://github.com/nlykkei/llvm-ir-obfuscation
 - https://github.com/scrt/avcleaner [Based Clang]
 - https://github.com/za233/LLVMMyPass
+- https://github.com/GoSSIP-SJTU/Armariris
 
 ## LIFT
 - https://github.com/avast/retdec
