@@ -53,6 +53,10 @@
 
 ## JIT
 - https://github.com/hfinkel/llvm-project-cxxjit
+- https://github.com/vnmakarov/mir
+
+## Intermediate Representation
+- https://github.com/vnmakarov/mir
 
 ## Monitor
 - https://github.com/trailofbits/monitoring_linux_events
