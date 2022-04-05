@@ -147,6 +147,7 @@
 - https://github.com/savi-lang/savi
 - https://github.com/artagnon/rhine
 - https://github.com/beefytech/Beef
+- https://github.com/ValeLang/Vale
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
