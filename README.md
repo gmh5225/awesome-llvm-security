@@ -57,6 +57,9 @@
 - https://github.com/hfinkel/llvm-project-cxxjit
 - https://github.com/vnmakarov/mir
 
+## Rust Manipulation
+- https://github.com/maekawatoshiki/vicis
+
 ## Intermediate Representation
 - https://github.com/vnmakarov/mir
 
