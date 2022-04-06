@@ -51,6 +51,7 @@
 - https://github.com/ergo720/lib86cpu
 - https://github.com/fvrmatteo/TritonASTLLVMIRTranslator
 - https://github.com/toor-de-force/Ghidra-to-LLVM
+- https://github.com/cbwang505/llvmanalyzer [Retdec Example]
 
 ## JIT
 - https://github.com/hfinkel/llvm-project-cxxjit
