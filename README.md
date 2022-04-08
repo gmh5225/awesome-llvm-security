@@ -109,6 +109,7 @@
 - https://github.com/cisco-open/llvm-crash-analyzer
 
 ## DIY Compiler
+- https://github.com/ethereum/solidity
 - https://github.com/microsoft/checkedc-clang
 - https://github.com/tylerweston/ccc
 - https://github.com/greydevv/cpp-compiler
