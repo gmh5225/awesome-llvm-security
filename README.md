@@ -155,6 +155,7 @@
 - https://github.com/beefytech/Beef
 - https://github.com/ValeLang/Vale
 - https://github.com/NilFoundation/zkLLVM [zk]
+- https://github.com/MoritzGoeckel/MLang
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
