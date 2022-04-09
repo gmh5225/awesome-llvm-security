@@ -1,6 +1,9 @@
 ![Gitee license](https://img.shields.io/badge/license-MIT-blue.svg)
 # `awesome-llvm-security`
 
+## Guide
+- https://llvm.org/docs
+
 ## OLLVM
 
 - https://github.com/obfuscator-llvm/obfuscator
