@@ -111,6 +111,9 @@
 ## Crash Analysis
 - https://github.com/cisco-open/llvm-crash-analyzer
 
+## DirectX Shader Compiler
+- https://github.com/EpicGames/DirectXShaderCompiler
+
 ## DIY Compiler
 - https://github.com/ethereum/solidity
 - https://github.com/microsoft/checkedc-clang
