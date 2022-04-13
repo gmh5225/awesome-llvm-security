@@ -90,6 +90,9 @@
 ## Mathematics related
 - https://github.com/vgvassilev/clad
 
+## Sanitizer
+- https://github.com/google/sanitizers
+
 ## Static Analysis
 - https://github.com/secure-software-engineering/phasar
 - https://github.com/JohannesLiu/LLVM-Pass-Analysis-Collection
