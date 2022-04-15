@@ -59,6 +59,9 @@
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
 
+## libunwind 
+- https://github.com/nidefawl/slowstacktrace
+
 ## JIT
 - https://github.com/hfinkel/llvm-project-cxxjit
 - https://github.com/vnmakarov/mir
