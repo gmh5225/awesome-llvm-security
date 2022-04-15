@@ -56,6 +56,9 @@
 - https://github.com/toor-de-force/Ghidra-to-LLVM
 - https://github.com/cbwang505/llvmanalyzer [Retdec Example]
 
+## libcxx
+- https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
+
 ## JIT
 - https://github.com/hfinkel/llvm-project-cxxjit
 - https://github.com/vnmakarov/mir
