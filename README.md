@@ -68,6 +68,7 @@
 
 ## Rust Manipulation
 - https://github.com/maekawatoshiki/vicis
+- https://github.com/TheDan64/inkwell
 
 ## Intermediate Representation
 - https://github.com/vnmakarov/mir
