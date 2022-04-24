@@ -117,6 +117,7 @@
 - https://github.com/Veridise/Vanguard [Smart Contracts]
 - https://github.com/KDE/clazy [Qt]
 - https://github.com/GoSSIP-SJTU/TripleDoggy
+- https://github.com/seclab-ucr/SUTURE
 
 ## Crash Analysis
 - https://github.com/cisco-open/llvm-crash-analyzer
