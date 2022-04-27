@@ -65,6 +65,7 @@
 ## JIT
 - https://github.com/hfinkel/llvm-project-cxxjit
 - https://github.com/vnmakarov/mir
+- https://discourse.llvm.org/t/write-jitlink-support-for-a-new-format-architecture/60322 [Jitlink]
 
 ## Rust Manipulation
 - https://github.com/maekawatoshiki/vicis
