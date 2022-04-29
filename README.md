@@ -283,6 +283,7 @@
 
 ## Clang Tutorial
 - https://github.com/banach-space/clang-tutor
+- https://github.com/ingve/awesome-clang
 - https://github.com/lahiri-phdworks/LLVM-Examples/tree/master/ClangAST
 - https://github.com/ronnie88597/Notes/tree/master/clang
 - https://github.com/lijiansong/clang-llvm-tutorial
