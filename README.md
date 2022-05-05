@@ -69,6 +69,7 @@
 - https://discourse.llvm.org/t/write-jitlink-support-for-a-new-format-architecture/60322 [Jitlink]
 
 ## Rust Manipulation
+- https://github.com/jauhien/iron-kaleidoscope [LLVM tutorial in Rust language]
 - https://github.com/maekawatoshiki/vicis
 - https://github.com/TheDan64/inkwell
 
