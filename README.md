@@ -121,7 +121,7 @@
 - https://github.com/KDE/clazy [Qt]
 - https://github.com/GoSSIP-SJTU/TripleDoggy
 - https://github.com/seclab-ucr/SUTURE
-- https://github.com/viktormalik/diffkemp
+- https://github.com/viktormalik/diffkemp [Static analysis of Linux kernel]
 
 ## Crash Analysis
 - https://github.com/cisco-open/llvm-crash-analyzer
