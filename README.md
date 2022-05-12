@@ -178,6 +178,7 @@
 - https://github.com/MoritzGoeckel/MLang
 - https://github.com/SjVer/Evi-Lang
 - https://github.com/greydevv/mango-compiler
+- https://github.com/rems-project/sail
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
