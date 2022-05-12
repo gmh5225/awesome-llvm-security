@@ -121,6 +121,7 @@
 - https://github.com/KDE/clazy [Qt]
 - https://github.com/GoSSIP-SJTU/TripleDoggy
 - https://github.com/seclab-ucr/SUTURE
+- https://github.com/viktormalik/diffkemp
 
 ## Crash Analysis
 - https://github.com/cisco-open/llvm-crash-analyzer
