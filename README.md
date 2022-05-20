@@ -182,6 +182,7 @@
 - https://github.com/greydevv/mango-compiler
 - https://github.com/rems-project/sail
 - https://github.com/Fedjmike/mini-c [C]
+- https://github.com/SerenityOS/jakt
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
