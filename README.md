@@ -57,6 +57,7 @@
 - https://github.com/cbwang505/llvmanalyzer [Retdec Example]
 - https://github.com/GaloisInc/reopt
 - https://github.com/LLVMParty/UnsupportedInstructionsLiftingToLLVM
+- https://github.com/JuliaComputingOSS/llvm-cbe [C Backend]
 
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
