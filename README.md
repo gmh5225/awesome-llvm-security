@@ -184,6 +184,7 @@
 - https://github.com/rems-project/sail
 - https://github.com/Fedjmike/mini-c [C]
 - https://github.com/SerenityOS/jakt
+- https://github.com/ziglang/zig
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
