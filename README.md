@@ -188,6 +188,7 @@
 - https://github.com/Fedjmike/mini-c [C]
 - https://github.com/SerenityOS/jakt
 - https://github.com/ziglang/zig
+- https://github.com/li-script/lightning
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
