@@ -3,6 +3,7 @@
 
 ## Guide
 - https://llvm.org/docs
+- https://github.com/gmh5225/compiler-class
 
 ## OLLVM
 
