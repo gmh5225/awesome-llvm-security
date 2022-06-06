@@ -55,7 +55,8 @@
 - https://github.com/JonathanSalwan/Triton/commit/0753a0c097fe637beb25b428ff2f0983f14f96d9
 - https://github.com/JonathanSalwan/Triton/commit/7af202df2064a6dc95d7fa4bd0dbe5635e5a44fa
 - https://github.com/JonathanSalwan/Triton/commit/4e42a22c7a4d970c81875f6474adf284187b452b
-- [Solution of the Hack.lu 2021 OLLVM challenge](https://github.com/JonathanSalwan/Triton/commit/9e6eb2492c7b66e8e1ccc14d75eb89705d108746)
+- [Triton:Dead Store Elimination](https://github.com/JonathanSalwan/Triton/issues/1130)
+- [Triton:Solution of the Hack.lu 2021 OLLVM challenge](https://github.com/JonathanSalwan/Triton/commit/9e6eb2492c7b66e8e1ccc14d75eb89705d108746)
 - https://github.com/ergo720/lib86cpu
 - https://github.com/fvrmatteo/TritonASTLLVMIRTranslator
 - https://github.com/toor-de-force/Ghidra-to-LLVM
