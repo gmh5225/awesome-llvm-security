@@ -300,6 +300,7 @@
 - https://github.com/alexjung/Writing-an-LLVM-Pass-using-the-new-PassManager [New Pass]
 - https://github.com/Radon10043/LLVMDFGPass [LLVM DFG]
 - https://github.com/zslwyuan/LLVM-11-Tutorials
+- https://github.com/wuzhanglin/llvm-IR-examples [LLVM IR]
 
 ## Clang Tutorial
 - https://github.com/banach-space/clang-tutor
