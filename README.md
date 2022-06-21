@@ -203,6 +203,9 @@
 - https://chromium.googlesource.com/chromium/src/+/refs/heads/main/tools/clang/rewrite_to_chrome_style/RewriteToChromeStyle.cpp
 - https://github.com/vgvassilev/clad [Math]
 
+## CIR
+- https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319
+
 ## Clangd
 - https://github.com/clangd/vscode-clangd
 
