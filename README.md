@@ -205,6 +205,7 @@
 
 ## CIR
 - https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319
+- https://github.com/facebookincubator/clangir
 
 ## Clangd
 - https://github.com/clangd/vscode-clangd
