@@ -34,7 +34,6 @@
 - https://github.com/scrt/avcleaner [Based Clang]
 - https://github.com/za233/LLVMMyPass
 - https://github.com/GoSSIP-SJTU/Armariris
-- https://github.com/NeHyci/goron-llvm14
 - https://github.com/heroims/obfuscator
 - https://github.com/HikariRebooted/HikariCore
 
