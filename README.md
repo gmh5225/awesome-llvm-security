@@ -202,6 +202,7 @@
 - https://github.com/llvm/llvm-project/blob/main/clang/tools/clang-check/ClangCheck.cpp
 - https://chromium.googlesource.com/chromium/src/+/refs/heads/main/tools/clang/rewrite_to_chrome_style/RewriteToChromeStyle.cpp
 - https://github.com/vgvassilev/clad [Math]
+- [Rewrite C++ code to automatically apply `constexpr` where possible](https://github.com/gmh5225/constexpr-everything)
 
 ## CIR
 - https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319
