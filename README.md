@@ -5,6 +5,9 @@
 - https://llvm.org/docs
 - https://github.com/gmh5225/compiler-class
 
+## IDE Configuration
+- https://github.com/gmh5225/Clion-llvm_build [Clion]
+
 ## OLLVM
 
 - https://github.com/obfuscator-llvm/obfuscator
