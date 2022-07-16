@@ -39,6 +39,7 @@
 - https://github.com/GoSSIP-SJTU/Armariris
 - https://github.com/heroims/obfuscator
 - https://github.com/HikariRebooted/HikariCore
+- https://github.com/tsarpaul/llvm-string-obfuscator
 
 ## LIFT
 - https://github.com/avast/retdec
