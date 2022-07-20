@@ -159,6 +159,8 @@
 - https://github.com/mirkosertic/Bytecoder [JAVA]
 - https://github.com/evanacox/honors-forum-project
 - https://github.com/rui314/chibicc
+- https://github.com/gmh5225/chibicc-riscv64
+- https://github.com/gmh5225/chibicc-riscv
 - https://github.com/Nicholas-Baron/little-lang
 - https://github.com/tj/luna
 - https://github.com/fanx-dev/fanx
