@@ -198,6 +198,7 @@
 - https://github.com/li-script/lightning
 - https://github.com/alinalihassan/Lesma
 - https://github.com/gmh5225/Tiny
+- https://github.com/carbon-language/carbon-lang
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
