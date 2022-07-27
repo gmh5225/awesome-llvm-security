@@ -217,6 +217,9 @@
 - https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319
 - https://github.com/facebookincubator/clangir
 
+## MLIR
+- https://github.com/gmh5225/mlir-cf-pass [out-of-tree pass]
+
 ## Clangd
 - https://github.com/clangd/vscode-clangd
 
