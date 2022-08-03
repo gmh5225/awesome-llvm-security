@@ -75,6 +75,7 @@
 - https://github.com/nidefawl/slowstacktrace
 
 ## JIT
+- https://github.com/spencertipping/jit-tutorial
 - https://github.com/hfinkel/llvm-project-cxxjit
 - https://github.com/vnmakarov/mir
 - https://discourse.llvm.org/t/write-jitlink-support-for-a-new-format-architecture/60322 [Jitlink]
