@@ -74,6 +74,9 @@
 ## libunwind 
 - https://github.com/nidefawl/slowstacktrace
 
+## trace
+- https://github.com/microsoft/spoor
+
 ## JIT
 - https://github.com/spencertipping/jit-tutorial
 - https://github.com/hfinkel/llvm-project-cxxjit
