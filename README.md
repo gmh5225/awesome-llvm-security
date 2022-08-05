@@ -44,6 +44,7 @@
 > MSVC Warbird
 - https://github.com/gmh5225/warbird-obfuscator
 - https://github.com/gmh5225/warbird-runtime
+- https://github.com/gmh5225/warbirdvm
 
 ## LIFT
 - https://github.com/avast/retdec
