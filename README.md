@@ -221,6 +221,7 @@
 
 ## CIR
 - https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319
+- https://github.com/llvm/clangir
 - https://github.com/facebookincubator/clangir
 
 ## MLIR
