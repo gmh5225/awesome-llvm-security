@@ -41,6 +41,10 @@
 - https://github.com/HikariRebooted/HikariCore
 - https://github.com/tsarpaul/llvm-string-obfuscator
 
+> MSVC Warbird
+- https://github.com/gmh5225/warbird-obfuscator
+- https://github.com/gmh5225/warbird-runtime
+
 ## LIFT
 - https://github.com/avast/retdec
 - https://github.com/lifting-bits/mcsema
