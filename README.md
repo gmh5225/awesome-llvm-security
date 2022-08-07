@@ -40,6 +40,7 @@
 - https://github.com/heroims/obfuscator
 - https://github.com/HikariRebooted/HikariCore
 - https://github.com/tsarpaul/llvm-string-obfuscator
+- https://github.com/SsageParuders/SsagePass
 
 > MSVC Warbird
 - https://github.com/gmh5225/warbird-obfuscator
