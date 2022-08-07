@@ -211,6 +211,7 @@
 - https://github.com/gmh5225/Tiny
 - https://github.com/carbon-language/carbon-lang
 - https://github.com/Omyyyy/pycom [python]
+- https://github.com/zero9178/Pylir [python]
 - https://github.com/rakudo/rakudo [Raku]
 
 ## Clang Plugins
