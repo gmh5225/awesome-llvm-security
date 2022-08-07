@@ -213,6 +213,7 @@
 - https://github.com/Omyyyy/pycom [python]
 - https://github.com/zero9178/Pylir [python]
 - https://github.com/rakudo/rakudo [Raku]
+- https://github.com/agraef/pure-lang
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
