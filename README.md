@@ -216,6 +216,7 @@
 - https://github.com/rakudo/rakudo [Raku]
 - https://github.com/agraef/pure-lang
 - https://github.com/Xeouz/vire
+- https://github.com/Sokolmish/cw39
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
