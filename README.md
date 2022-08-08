@@ -80,6 +80,9 @@
 ## libunwind 
 - https://github.com/nidefawl/slowstacktrace
 
+## Android Kernel
+- https://github.com/nathanchance/android-kernel-clang
+
 ## trace
 - https://github.com/microsoft/spoor
 
