@@ -114,6 +114,7 @@
 
 ## Symbolic Execution
 - https://github.com/insufficiently-caffeinated/caffeine
+- https://github.com/R-Fuzz/symsan
 
 ## Runtime Check
 - https://github.com/danteisalive/llvm-typecheking
