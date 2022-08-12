@@ -224,6 +224,7 @@
 - https://github.com/lethalbit/clank [A C++ Front-end based on LLVM's clang]
 - https://github.com/Juicestus/Capstone
 - https://github.com/ange-yaghi/piranha
+- https://github.com/leanprover/lean4
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
