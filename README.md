@@ -150,6 +150,9 @@
 - https://github.com/viktormalik/diffkemp [Static analysis of Linux kernel]
 - [Lightweight static analysis for many languages. Find bug variants with patterns that look like source code](https://github.com/returntocorp/semgrep)
 
+## Clang Build Analysis
+- https://github.com/aras-p/ClangBuildAnalyzer
+
 ## Crash Analysis
 - https://github.com/cisco-open/llvm-crash-analyzer
 
