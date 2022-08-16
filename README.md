@@ -227,6 +227,7 @@
 - https://github.com/ange-yaghi/piranha
 - https://github.com/leanprover/lean4
 - https://github.com/krispybyte/virtual-machine [A virtual machine with an included lexer]
+- https://github.com/glouw/c8c [compiler, assembler, and virtual machine]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
