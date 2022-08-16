@@ -226,6 +226,7 @@
 - https://github.com/Juicestus/Capstone
 - https://github.com/ange-yaghi/piranha
 - https://github.com/leanprover/lean4
+- https://github.com/krispybyte/virtual-machine [A virtual machine with an included lexer]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
