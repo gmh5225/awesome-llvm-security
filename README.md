@@ -15,6 +15,7 @@
 - https://github.com/amimo/goron
 - https://github.com/emc2314/YANSOllvm
 - https://github.com/HikariObfuscator/Hikari
+- https://github.com/Lessica/HikariSummer
 - https://github.com/DeNA/DeClang
 - https://github.com/0x3f97/ollvm-12.x
 - https://github.com/kk-laoguo/ollvm-13
