@@ -117,6 +117,9 @@
 - https://github.com/aengelke/binopt
 - https://github.com/QBDI/QBDI
 
+## Assembly Engine
+- https://github.com/gmh5225/LLVM-ASM-Engine-cheater
+
 ## Symbolic Execution
 - https://github.com/insufficiently-caffeinated/caffeine
 - https://github.com/R-Fuzz/symsan
