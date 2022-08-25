@@ -240,6 +240,7 @@
 - https://github.com/spicelang/spice
 - https://github.com/yume-lang/yume
 - https://github.com/Nicholas-Baron/little-lang
+- https://github.com/kamkow1/yup
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
