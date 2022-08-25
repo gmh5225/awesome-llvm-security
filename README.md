@@ -238,6 +238,7 @@
 - https://github.com/glouw/c8c [compiler, assembler, and virtual machine]
 - https://github.com/NVIDIA/MDL-SDK [NVIDIA Material Definition Language SDK]
 - https://github.com/spicelang/spice
+- https://github.com/yume-lang/yume
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
