@@ -4,6 +4,7 @@
 ## Guide
 - https://llvm.org/docs
 - https://github.com/gmh5225/compiler-class
+- https://www.llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html
 
 ## IDE Configuration
 - https://github.com/gmh5225/Clion-llvm_build [Clion]
