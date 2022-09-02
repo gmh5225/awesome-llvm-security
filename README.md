@@ -244,6 +244,9 @@
 - https://github.com/Nicholas-Baron/little-lang
 - https://github.com/kamkow1/yup
 - https://github.com/brwhale/KataScript [Script]
+- https://github.com/XChy/XSharp
+- https://github.com/alan123piano/functional-lang
+- https://github.com/KCreate/charly-vm [Bytecode virtual machine]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
