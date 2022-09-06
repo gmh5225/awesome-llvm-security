@@ -390,4 +390,7 @@
 - https://github.com/GuoYaxiang/craftinginterpreters_zh
 - https://github.com/tuoxie007/play_with_llvm [CN]
 
+## Jobs
+- https://github.com/mgaudet/CompilerJobs
+
 
