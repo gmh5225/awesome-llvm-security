@@ -248,6 +248,7 @@
 - https://github.com/XChy/XSharp
 - https://github.com/alan123piano/functional-lang
 - https://github.com/KCreate/charly-vm [Bytecode virtual machine]
+- https://github.com/xinyu-evolutruster/CsGo-Compiler
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
