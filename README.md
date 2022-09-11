@@ -46,7 +46,7 @@
 - https://github.com/SsageParuders/SsagePass
 - https://github.com/eshard/obfuscator-llvm
 - https://github.com/NeHyci/Hikari-LLVM15
-- https://github.com/KpwnZ/SimpleStringObf
+- https://github.com/KpwnZ/sllvm
 
 > MSVC Warbird
 - https://github.com/gmh5225/warbird-obfuscator
