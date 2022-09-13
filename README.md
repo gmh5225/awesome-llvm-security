@@ -249,6 +249,7 @@
 - https://github.com/alan123piano/functional-lang
 - https://github.com/KCreate/charly-vm [Bytecode virtual machine]
 - https://github.com/xinyu-evolutruster/CsGo-Compiler
+- https://github.com/thradams/cake [Cake a C23 front end and transpiler written in C]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
