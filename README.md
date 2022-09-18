@@ -251,6 +251,10 @@
 - https://github.com/xinyu-evolutruster/CsGo-Compiler
 - https://github.com/thradams/cake [Cake a C23 front end and transpiler written in C]
 - https://github.com/garc0/GachiC
+- https://github.com/Retr0Wawe/STXA
+- https://github.com/eokas/eokas-lang
+- https://github.com/parsabee/Quack-v2
+- https://github.com/darealvenum/Flare
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
