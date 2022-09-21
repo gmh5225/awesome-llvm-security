@@ -158,6 +158,7 @@
 - https://github.com/seclab-ucr/SUTURE
 - https://github.com/viktormalik/diffkemp [Static analysis of Linux kernel]
 - [Lightweight static analysis for many languages. Find bug variants with patterns that look like source code](https://github.com/returntocorp/semgrep)
+- https://github.com/satya-das/cppparser [A library to parse C/C++ source as AST]
 
 ## Clang Build Analysis
 - https://github.com/aras-p/ClangBuildAnalyzer
