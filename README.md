@@ -257,6 +257,7 @@
 - https://github.com/eokas/eokas-lang
 - https://github.com/parsabee/Quack-v2
 - https://github.com/darealvenum/Flare
+- https://github.com/jzimmerman/langcc [A Next-Generation Compiler Compiler]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
