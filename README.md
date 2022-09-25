@@ -259,6 +259,7 @@
 - https://github.com/parsabee/Quack-v2
 - https://github.com/darealvenum/Flare
 - https://github.com/jzimmerman/langcc [A Next-Generation Compiler Compiler]
+- https://github.com/objeck/objeck-lang [Modern object-oriented and functional programming language]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
