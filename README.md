@@ -185,6 +185,7 @@
 - https://github.com/tinygo-org/tinygo [GO]
 - https://github.com/ab25cq/comelang
 - https://github.com/sleirsgoevy/ps4-rop-8cc
+- https://github.com/keiichiw/constexpr-8cc
 - https://github.com/egunnarsson/llfp
 - https://github.com/mirkosertic/Bytecoder [JAVA]
 - https://github.com/evanacox/honors-forum-project
