@@ -263,6 +263,7 @@
 - https://github.com/jzimmerman/langcc [A Next-Generation Compiler Compiler]
 - https://github.com/objeck/objeck-lang [Modern object-oriented and functional programming language]
 - https://github.com/Kindelia/Kind2 [A next-gen functional language]
+- https://github.com/phate/jlm [A research compiler based on the RVSDG IR]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
