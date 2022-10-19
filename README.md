@@ -318,6 +318,8 @@
 - https://github.com/llvm/llvm-project/commit/8cd8bd4a5ca702024b9df53a9c7984bb700488a0 [intrinsics]
 - https://github.com/llvm/llvm-project/commit/67d9276b16024bae66dfc2fcb739d947637b8c52
 
+## X86
+- [Add WRMSRNS instructions](https://github.com/llvm/llvm-project/commit/3ee58e2f355f8fdb8e0fe29dc366c8833fafa7d3#diff-9b86f2920663e81557799fbbd887a211dfd3358e91f671a767b3786fbd802045)
 
 ## Optimization
 - https://discourse.llvm.org/t/rfc-cmov-vs-branch-optimization/6040
