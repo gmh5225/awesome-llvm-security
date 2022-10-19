@@ -266,6 +266,8 @@
 - https://github.com/phate/jlm [A research compiler based on the RVSDG IR]
 - https://github.com/memoryleak47/lua2llvm
 - https://github.com/KianShepherd/dusk
+- https://github.com/f0xeri/SlangCompiler
+- https://github.com/davidgiven/calculon
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
