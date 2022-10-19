@@ -265,6 +265,7 @@
 - https://github.com/Kindelia/Kind2 [A next-gen functional language]
 - https://github.com/phate/jlm [A research compiler based on the RVSDG IR]
 - https://github.com/memoryleak47/lua2llvm
+- https://github.com/KianShepherd/dusk
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
