@@ -268,6 +268,7 @@
 - https://github.com/KianShepherd/dusk
 - https://github.com/f0xeri/SlangCompiler
 - https://github.com/davidgiven/calculon
+- https://github.com/epoll-reactor/weak_compiler
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
