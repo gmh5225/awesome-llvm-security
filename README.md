@@ -320,6 +320,7 @@
 
 ## X86
 - [Add WRMSRNS instructions](https://github.com/llvm/llvm-project/commit/3ee58e2f355f8fdb8e0fe29dc366c8833fafa7d3#diff-9b86f2920663e81557799fbbd887a211dfd3358e91f671a767b3786fbd802045)
+- [Support PREFETCHI instructions](https://github.com/NewWorldComingSoon/llvm-msvc/commit/62ca79102cf9646aa9ed0dac7f018432a68eedf1)
 
 ## Optimization
 - https://discourse.llvm.org/t/rfc-cmov-vs-branch-optimization/6040
