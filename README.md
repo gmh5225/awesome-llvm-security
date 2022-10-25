@@ -1,4 +1,4 @@
-![Gitee license](https://img.shields.io/badge/license-MIT-blue.svg)
+[![GitHub license](https://img.shields.io/github/license/gmh5225/awesome-llvm-security)](https://github.com/gmh5225/awesome-llvm-security/blob/main/LICENSE)
 # `awesome-llvm-security`
 
 ## Guide
