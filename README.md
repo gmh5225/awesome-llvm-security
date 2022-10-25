@@ -1,5 +1,7 @@
-[![GitHub license](https://img.shields.io/github/license/gmh5225/awesome-llvm-security)](https://github.com/gmh5225/awesome-llvm-security/blob/main/LICENSE)
+
 # `awesome-llvm-security`
+
+[![GitHub license](https://img.shields.io/github/license/gmh5225/awesome-llvm-security)](https://github.com/gmh5225/awesome-llvm-security/blob/main/LICENSE)
 
 ## Guide
 - https://llvm.org/docs
