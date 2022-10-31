@@ -50,6 +50,7 @@
 - https://github.com/eshard/obfuscator-llvm
 - https://github.com/NeHyci/Hikari-LLVM15
 - https://github.com/KpwnZ/sllvm
+- https://github.com/open-obfuscator/o-mvll
 
 ## MSVC Warbird
 - https://github.com/gmh5225/warbird-obfuscator
