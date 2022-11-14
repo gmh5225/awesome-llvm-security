@@ -398,6 +398,7 @@
 - https://github.com/wuzhanglin/llvm-IR-examples [LLVM IR]
 - https://github.com/smlnj/smlnj-llvm [Calling Convention]
 - https://github.com/Jonathan2251/lbd [backend]
+- https://github.com/lac-dcc/llvm-course
 
 ## Clang Tutorial
 - https://github.com/banach-space/clang-tutor
