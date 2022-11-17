@@ -84,6 +84,7 @@
 - https://github.com/LLVMParty/UnsupportedInstructionsLiftingToLLVM
 - https://github.com/JuliaComputingOSS/llvm-cbe [C Backend]
 - https://github.com/praeclarum/Iril [LLVM IR to IL]
+- https://github.com/trailofbits/binrec-tob [Dynamic Binary Lifting and Recompilation]
 
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
