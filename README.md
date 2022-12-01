@@ -352,6 +352,7 @@
 - https://github.com/NewWorldComingSoon/llvm-msvc/commit/ca33d74ca5cefdad929d5c2759f7d80faa6be539
 - https://github.com/kai-franz/dbds [Based DT]
 - https://github.com/d4rk-kn1gh7/llvm-optimization-pass
+- https://github.com/UofT-EcoSystem/CSCD70 [CSCD70 Compiler Optimization]
 
 
 ## Testing Tools
