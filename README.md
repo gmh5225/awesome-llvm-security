@@ -103,6 +103,7 @@
 - https://github.com/hfinkel/llvm-project-cxxjit
 - https://github.com/vnmakarov/mir
 - https://discourse.llvm.org/t/write-jitlink-support-for-a-new-format-architecture/60322 [Jitlink]
+- https://github.com/jmmartinez/easy-just-in-time [just-in-time compiler for C++]
 
 ## Rust Manipulation
 - https://github.com/jauhien/iron-kaleidoscope [LLVM tutorial in Rust language]
