@@ -281,6 +281,7 @@
 - https://github.com/ianfun/xcc [Small C Compiler written in C++]
 - https://github.com/tjysdsg/tan
 - https://github.com/One-Language/One
+- https://github.com/1whatleytay/kara [Easy-to-use, blazing-fast]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
