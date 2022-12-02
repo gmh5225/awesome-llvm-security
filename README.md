@@ -278,6 +278,7 @@
 - https://github.com/JuliaPoo/Artfuscator [Art compiler]
 - https://github.com/Ma11ock/holyc [C variant]
 - https://github.com/ianfun/xcc [Small C Compiler written in C++]
+- https://github.com/tjysdsg/tan
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
