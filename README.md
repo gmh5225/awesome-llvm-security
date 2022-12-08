@@ -286,6 +286,7 @@
 - https://github.com/exaloop/codon [python]
 - https://github.com/ASDAlexander77/TypeScriptCompiler [TypeScript]
 - https://github.com/PaddlePaddle/CINN [Neural Networks]
+- https://github.com/momentarylapse/kaba
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
