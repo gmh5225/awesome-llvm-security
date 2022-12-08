@@ -284,6 +284,8 @@
 - https://github.com/1whatleytay/kara [Easy-to-use, blazing-fast]
 - https://github.com/forrestchang/gptlang [ChatGPT]
 - https://github.com/exaloop/codon [python]
+- https://github.com/ASDAlexander77/TypeScriptCompiler [TypeScript]
+- https://github.com/PaddlePaddle/CINN [Neural Networks]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
