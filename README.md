@@ -283,6 +283,7 @@
 - https://github.com/One-Language/One
 - https://github.com/1whatleytay/kara [Easy-to-use, blazing-fast]
 - https://github.com/forrestchang/gptlang [ChatGPT]
+- https://github.com/exaloop/codon [python]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
