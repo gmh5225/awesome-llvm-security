@@ -287,6 +287,7 @@
 - https://github.com/ASDAlexander77/TypeScriptCompiler [TypeScript]
 - https://github.com/PaddlePaddle/CINN [Neural Networks]
 - https://github.com/momentarylapse/kaba
+- https://github.com/viper-org/viper-lang [C]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
