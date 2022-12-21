@@ -85,6 +85,8 @@
 - https://github.com/JuliaComputingOSS/llvm-cbe [C Backend]
 - https://github.com/praeclarum/Iril [LLVM IR to IL]
 - https://github.com/trailofbits/binrec-tob [Dynamic Binary Lifting and Recompilation]
+- https://github.com/fay59/fcd
+- https://github.com/jevinskie/dagger
 
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
