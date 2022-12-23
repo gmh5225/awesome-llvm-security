@@ -365,6 +365,7 @@
 - https://github.com/kai-franz/dbds [Based DT]
 - https://github.com/d4rk-kn1gh7/llvm-optimization-pass
 - https://github.com/UofT-EcoSystem/CSCD70 [CSCD70 Compiler Optimization]
+- https://github.com/AliveToolkit/alive2 [Automatic verification of LLVM optimizations]
 
 
 ## Testing Tools
