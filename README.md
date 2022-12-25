@@ -111,6 +111,7 @@
 - https://github.com/jauhien/iron-kaleidoscope [LLVM tutorial in Rust language]
 - https://github.com/maekawatoshiki/vicis
 - https://github.com/TheDan64/inkwell
+- https://github.com/jamesmth/llvm-plugin-rs [Out-of-tree LLVM passes in Rust]
 
 ## Intermediate Representation
 - https://github.com/vnmakarov/mir
