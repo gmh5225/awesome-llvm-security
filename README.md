@@ -3,6 +3,9 @@
 
 [![GitHub license](https://img.shields.io/github/license/gmh5225/awesome-llvm-security)](https://github.com/gmh5225/awesome-llvm-security/blob/main/LICENSE)
 
+## How to contribute?
+- https://docs.github.com/en/get-started/quickstart/contributing-to-projects
+
 ## Guide
 - https://llvm.org/docs
 - https://github.com/aalhour/awesome-compilers
