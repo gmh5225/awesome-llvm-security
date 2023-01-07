@@ -183,6 +183,10 @@
 ## DirectX Shader Compiler
 - https://github.com/EpicGames/DirectXShaderCompiler
 
+## Virtual Machine 
+- https://github.com/jakogut/tinyvm
+- https://github.com/gmh5225/tinyvm-msvc
+
 ## DIY Compiler
 - https://github.com/ethereum/solidity
 - https://github.com/microsoft/checkedc-clang
