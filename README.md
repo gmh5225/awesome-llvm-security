@@ -297,6 +297,7 @@
 - https://github.com/PaddlePaddle/CINN [Neural Networks]
 - https://github.com/momentarylapse/kaba
 - https://github.com/viper-org/viper-lang [C]
+- https://github.com/ab25cq/neo-c
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
