@@ -173,6 +173,7 @@
 - https://github.com/satya-das/cppparser [A library to parse C/C++ source as AST]
 - [Static analysis tool based on clang, which detects source-to-binary information leaks in C and C++ projects](https://github.com/ergrelet/cpplumber)
 - https://github.com/CryptoExperts/wyverse [White-box analytic framework based on LLVM ]
+- https://github.com/LLVM-but-worse/maple-ir [Java]
 
 ## Clang Build Analysis
 - https://github.com/aras-p/ClangBuildAnalyzer
