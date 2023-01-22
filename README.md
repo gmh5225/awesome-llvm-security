@@ -313,6 +313,7 @@
 - https://github.com/vgvassilev/clad [Math]
 - [Rewrite C++ code to automatically apply `constexpr` where possible](https://github.com/gmh5225/constexpr-everything)
 - [A clang tool for happy refactoring without source-code gymnastics ](https://github.com/goldsborough/clang-expand)
+- [Clang-based tool to dump type information (enums, records, vtables) from a C++ codebase and optionally import it into IDA](https://github.com/leoetlino/classgen)
 
 ## CIR
 - https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319
