@@ -302,6 +302,7 @@
 - https://github.com/viper-org/viper-lang [C]
 - https://github.com/ab25cq/neo-c
 - https://github.com/cgsdfc/simplecc [C]
+- https://github.com/WerWolv/PatternLanguage [ImHex]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
