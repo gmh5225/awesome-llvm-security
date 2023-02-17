@@ -305,6 +305,7 @@
 - https://github.com/cgsdfc/simplecc [C]
 - https://github.com/WerWolv/PatternLanguage [ImHex]
 - https://github.com/DavidPH/GDCC [Game Data Compiler Collection]
+- https://github.com/jephthai/EvilVM [Information security research tools]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
