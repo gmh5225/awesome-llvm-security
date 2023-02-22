@@ -92,6 +92,7 @@
 - https://github.com/trailofbits/binrec-tob [Dynamic Binary Lifting and Recompilation]
 - https://github.com/fay59/fcd
 - https://github.com/relyze-ltd/LibTCGTranslate [TCG]
+- https://github.com/katrinafyi/llvm-translator
 
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
