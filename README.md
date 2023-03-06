@@ -66,6 +66,7 @@
 ## LIFT
 - https://github.com/avast/retdec
 - https://github.com/lifting-bits/mcsema
+- https://github.com/revng/revng
 - https://github.com/LLVMParty/TicklingVMProtect
 - https://github.com/microsoft/llvm-mctoll
 - https://github.com/sh4m2hwz/triton_ast_llvm_ir_translator
