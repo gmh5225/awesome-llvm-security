@@ -330,6 +330,8 @@
 
 ## MLIR
 - https://github.com/gmh5225/mlir-cf-pass [out-of-tree pass]
+- https://github.com/openxla/iree [MLIR compiler]
+- https://github.com/openxla/xla [MLIR compiler]
 
 ## Clangd
 - https://github.com/clangd/vscode-clangd
