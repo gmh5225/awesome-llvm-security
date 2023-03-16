@@ -311,6 +311,7 @@
 - https://github.com/DavidPH/GDCC [Game Data Compiler Collection]
 - https://github.com/jephthai/EvilVM [Information security research tools]
 - https://github.com/tathanhdinh/tocc [A untyped C compiler]
+- https://github.com/AmrDeveloper/Jot
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
