@@ -116,6 +116,7 @@
 - https://discourse.llvm.org/t/write-jitlink-support-for-a-new-format-architecture/60322 [Jitlink]
 - https://github.com/jmmartinez/easy-just-in-time [just-in-time compiler for C++]
 - https://github.com/YutaroOrikasa/ljf-project [LLVM based JIT Framework]
+- https://github.com/JLLVM/JLLVM [JVM implementation using LLVM as a JIT]
 
 ## Rust Manipulation
 - https://github.com/jauhien/iron-kaleidoscope [LLVM tutorial in Rust language]
