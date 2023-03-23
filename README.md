@@ -96,6 +96,7 @@
 - https://github.com/fay59/fcd
 - https://github.com/relyze-ltd/LibTCGTranslate [TCG]
 - https://github.com/katrinafyi/llvm-translator
+- https://github.com/cojocar/bin2llvm
 
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
