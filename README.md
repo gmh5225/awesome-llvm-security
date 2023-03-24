@@ -314,6 +314,7 @@
 - https://github.com/jephthai/EvilVM [Information security research tools]
 - https://github.com/tathanhdinh/tocc [A untyped C compiler]
 - https://github.com/AmrDeveloper/Jot
+- https://github.com/pducklin/minimalisti-C [A stripped-downTiny CC for 64-bit Windows]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
