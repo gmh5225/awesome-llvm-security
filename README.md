@@ -13,6 +13,7 @@
 - https://github.com/gmh5225/compiler-class
 - https://www.llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html
 - https://github.com/true-grue/Compiler-Development
+- https://github.com/rust-hosted-langs/book [Writing Interpreters in Rust]
 
 ## IDE Configuration
 - https://github.com/gmh5225/Clion-llvm_build [Clion]
