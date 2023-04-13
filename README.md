@@ -59,6 +59,7 @@
 - https://github.com/open-obfuscator/o-mvll
 - https://github.com/trustdecision/td-ollvm
 - https://github.com/GANGE666/xVMP
+- https://github.com/KomiMoe/Arkari
 
 ## MSVC Warbird
 - https://github.com/gmh5225/warbird-obfuscator
