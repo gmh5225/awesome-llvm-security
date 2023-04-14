@@ -102,6 +102,7 @@
 - https://github.com/relyze-ltd/LibTCGTranslate [TCG]
 - https://github.com/katrinafyi/llvm-translator
 - https://github.com/cojocar/bin2llvm
+- https://github.com/staticafi/llvm2c [IR->C]
 
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
