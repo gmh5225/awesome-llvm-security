@@ -60,6 +60,9 @@
 - https://github.com/trustdecision/td-ollvm
 - https://github.com/GANGE666/xVMP
 - https://github.com/KomiMoe/Arkari
+- https://github.com/Yuerino/obfuscator-pass
+- https://github.com/Slattz/ObfusC
+- https://github.com/Colerar/labyrinth
 
 ## MSVC Warbird
 - https://github.com/gmh5225/warbird-obfuscator
