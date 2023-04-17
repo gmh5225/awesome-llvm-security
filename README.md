@@ -322,6 +322,10 @@
 - https://github.com/AmrDeveloper/Jot
 - https://github.com/pducklin/minimalisti-C [A stripped-downTiny CC for 64-bit Windows]
 - https://github.com/AdamOron/LightweightCompiler
+- https://github.com/wangyu-/mycc [C]
+- https://github.com/swetanjal/MiniC-Compiler [C]
+- https://github.com/mixr26/mxrlang
+- https://github.com/pflynn157/orka
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
