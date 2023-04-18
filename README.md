@@ -9,6 +9,7 @@
 
 ## Guide
 - https://llvm.org/docs
+- https://github.com/DoctorWkt/acwj
 - https://github.com/aalhour/awesome-compilers
 - https://github.com/gmh5225/compiler-class
 - https://www.llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html
