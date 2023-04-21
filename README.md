@@ -27,7 +27,9 @@
 - https://github.com/emc2314/YANSOllvm
 - https://github.com/HikariObfuscator/Hikari
 - https://github.com/Lessica/HikariSummer
+- https://github.com/NeHyci/Hikari-LLVM15
 - https://github.com/NeHyci/Hikari-LLVM15-Core
+- https://github.com/HakonHarnes/emcc-obf [Hikari]
 - https://github.com/DeNA/DeClang
 - https://github.com/0x3f97/ollvm-12.x
 - https://github.com/kk-laoguo/ollvm-13
@@ -55,7 +57,6 @@
 - https://github.com/tsarpaul/llvm-string-obfuscator
 - https://github.com/SsageParuders/SsagePass
 - https://github.com/eshard/obfuscator-llvm
-- https://github.com/NeHyci/Hikari-LLVM15
 - https://github.com/KpwnZ/sllvm
 - https://github.com/open-obfuscator/o-mvll
 - https://github.com/trustdecision/td-ollvm
