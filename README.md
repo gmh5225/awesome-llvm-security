@@ -35,6 +35,7 @@
 - https://github.com/kk-laoguo/ollvm-13
 - https://github.com/redheart923/ollvm-ext
 - https://github.com/o2e/OLLVM-9.0.1
+- https://github.com/s3team/gdop
 - https://github.com/wolfm/extended-gdop
 - https://github.com/bigBestWay/CodeObfs
 - https://github.com/SheLLVM/SheLLVM
