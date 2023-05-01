@@ -328,6 +328,8 @@
 - https://github.com/swetanjal/MiniC-Compiler [C]
 - https://github.com/mixr26/mxrlang
 - https://github.com/pflynn157/orka
+- https://github.com/drmortalwombat/oscar64
+- https://github.com/GregorGullwi/FlashCpp
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
