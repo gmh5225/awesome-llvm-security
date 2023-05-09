@@ -332,6 +332,7 @@
 - https://github.com/drmortalwombat/oscar64
 - https://github.com/GregorGullwi/FlashCpp
 - https://github.com/BrandonKi/BF-Compiler [Compiler for Brainfuck]
+- https://github.com/project-type/type-c
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
