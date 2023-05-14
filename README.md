@@ -334,6 +334,7 @@
 - https://github.com/BrandonKi/BF-Compiler [Compiler for Brainfuck]
 - https://github.com/project-type/type-c
 - https://github.com/thepowersgang/mrustc [rust]
+- https://github.com/acd1034/try-rust [C Compiler Frontend in Rust]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
