@@ -335,6 +335,7 @@
 - https://github.com/project-type/type-c
 - https://github.com/thepowersgang/mrustc [rust]
 - https://github.com/acd1034/try-rust [C Compiler Frontend in Rust]
+- https://github.com/x8xx/p4c-s4 [Backend for the P4 compiler targeting S4]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
