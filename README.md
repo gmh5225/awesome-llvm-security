@@ -9,6 +9,7 @@
 
 ## Guide
 - https://llvm.org/docs
+- https://github.com/learn-llvm/awesome-llvm
 - https://github.com/DoctorWkt/acwj
 - https://github.com/aalhour/awesome-compilers
 - https://github.com/gmh5225/compiler-class
