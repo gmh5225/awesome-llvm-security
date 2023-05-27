@@ -128,6 +128,7 @@
 - https://github.com/jmmartinez/easy-just-in-time [just-in-time compiler for C++]
 - https://github.com/YutaroOrikasa/ljf-project [LLVM based JIT Framework]
 - https://github.com/JLLVM/JLLVM [JVM implementation using LLVM as a JIT]
+- https://github.com/Themaister/MIPS-LLVM-Jitter [MIPS to LLVM IR recompiler]
 
 ## Rust Manipulation
 - https://github.com/jauhien/iron-kaleidoscope [LLVM tutorial in Rust language]
