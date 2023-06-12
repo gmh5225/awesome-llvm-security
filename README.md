@@ -72,6 +72,7 @@
 - https://github.com/gmh5225/warbird-obfuscator
 - https://github.com/gmh5225/warbird-runtime
 - https://github.com/gmh5225/warbirdvm
+- https://github.com/DownWithUp/WarbirdExamples
 
 ## LIFT
 - https://github.com/avast/retdec
