@@ -235,6 +235,7 @@
 - https://github.com/fanx-dev/fanx
 - https://github.com/PipeRift/rift
 - https://github.com/lotabout/write-a-C-interpreter
+- https://github.com/root-project/cling [C++ interpreter]
 - https://github.com/alinalihassan/Lesma
 - https://github.com/RoryBrennan1999/PythonCompiler
 - https://github.com/skvadrik/re2c [Lexer]
