@@ -473,6 +473,7 @@
 - https://github.com/smlnj/smlnj-llvm [Calling Convention]
 - https://github.com/Jonathan2251/lbd [backend]
 - https://github.com/lac-dcc/llvm-course
+- https://github.com/vhiribarren/llvm-tuto-kaleidoscope-rust [Kaleidoscope rust]
 
 ## Clang Tutorial
 - https://github.com/banach-space/clang-tutor
