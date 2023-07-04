@@ -342,6 +342,7 @@
 - https://github.com/thepowersgang/mrustc [rust]
 - https://github.com/acd1034/try-rust [C Compiler Frontend in Rust]
 - https://github.com/x8xx/p4c-s4 [Backend for the P4 compiler targeting S4]
+- https://github.com/inko-lang/inko [A language for building concurrent software with confidence]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
