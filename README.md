@@ -151,6 +151,7 @@
 
 ## WASM
 - https://github.com/leaningtech/cheerp-compiler
+- https://github.com/wasmerio/wasmer
 
 ## Dynamic Binary Instrumentation
 - https://github.com/aengelke/instrew
