@@ -110,6 +110,7 @@
 - https://github.com/katrinafyi/llvm-translator
 - https://github.com/cojocar/bin2llvm
 - https://github.com/staticafi/llvm2c [IR->C]
+- https://github.com/sunfishcode/llvm2cranelift [LLVM IR to Cranelift IR]
 
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
