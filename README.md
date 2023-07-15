@@ -75,6 +75,7 @@
 - https://github.com/gmh5225/warbird-runtime
 - https://github.com/gmh5225/warbirdvm
 - https://github.com/DownWithUp/WarbirdExamples
+- https://github.com/gmh5225/warbird-example
 
 ## LIFT
 - https://github.com/avast/retdec
