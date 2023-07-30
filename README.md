@@ -271,7 +271,7 @@
 - https://github.com/greydevv/mango-compiler
 - https://github.com/rems-project/sail
 - https://github.com/Fedjmike/mini-c [C]
-- https://github.com/SerenityOS/jakt
+- https://github.com/SerenityOS/jakt [memory-safe]
 - https://github.com/ziglang/zig
 - https://github.com/li-script/lightning
 - https://github.com/alinalihassan/Lesma
