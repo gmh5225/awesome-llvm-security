@@ -368,6 +368,7 @@
 - https://github.com/facebookincubator/clangir
 
 ## MLIR
+- https://github.com/j2kun/mlir-tutorial [MLIR For Beginners]
 - https://github.com/gmh5225/mlir-cf-pass [out-of-tree pass]
 - https://github.com/openxla/iree [MLIR compiler]
 - https://github.com/openxla/xla [MLIR compiler]
