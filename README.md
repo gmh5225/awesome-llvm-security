@@ -67,6 +67,8 @@
 - https://github.com/Yuerino/obfuscator-pass
 - https://github.com/Slattz/ObfusC
 - https://github.com/Colerar/labyrinth
+- https://github.com/aiglematth/simple_obfuscator
+- https://github.com/Despire/llvm-obfuscator
 - https://github.com/joaovarelas/Obfuscator-LLVM-16.0 [OLLVM 16]
 - https://github.com/MustangYM/ShelbyObfuscator [OLLVM 16]
 - https://github.com/AimiP02/BronyaObfus [OLLVM 16]
