@@ -352,6 +352,7 @@
 - https://github.com/x8xx/p4c-s4 [Backend for the P4 compiler targeting S4]
 - https://github.com/inko-lang/inko [A language for building concurrent software with confidence]
 - https://github.com/grassator/mass [Compile-time execution]
+- https://github.com/dtcxzyw/cmmc [CPP]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
