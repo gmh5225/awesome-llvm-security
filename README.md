@@ -356,6 +356,7 @@
 - https://github.com/ArthurPV/lily
 - https://github.com/leaningtech/cheerp-compiler [C++ compiler for Web]
 - https://github.com/raustin9/ThunderBirdCompiler
+- https://github.com/c3lang/c3c [compatibility with C]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
