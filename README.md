@@ -116,6 +116,7 @@
 - https://github.com/cojocar/bin2llvm
 - https://github.com/staticafi/llvm2c [IR->C]
 - https://github.com/sunfishcode/llvm2cranelift [LLVM IR to Cranelift IR]
+- https://github.com/trailofbits/circuitous [binary->LLVM->circuits]
 
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
