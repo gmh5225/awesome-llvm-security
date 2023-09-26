@@ -365,6 +365,7 @@
 - https://github.com/zourenDevote/KaleidoscopeLanguage [Kaleidoscope]
 - https://github.com/gmh5225/PJDCc [PJDC]
 - https://github.com/arnetheduck/nlvm [Nim]
+- https://github.com/brymer-meneses/lev-lang [Python's syntax]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
