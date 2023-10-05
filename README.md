@@ -24,6 +24,7 @@
 
 - https://github.com/obfuscator-llvm/obfuscator
 - https://github.com/isrc-cas/flounder
+- https://github.com/romangol/Armariries
 - https://github.com/amimo/goron
 - https://github.com/emc2314/YANSOllvm
 - https://github.com/HikariObfuscator/Hikari
