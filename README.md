@@ -31,6 +31,7 @@
 - https://github.com/Lessica/HikariSummer
 - https://github.com/NeHyci/Hikari-LLVM15
 - https://github.com/NeHyci/Hikari-LLVM15-Core
+- https://github.com/61bcdefg/Hikari-LLVM15-Headers
 - https://github.com/HakonHarnes/emcc-obf [Hikari]
 - https://github.com/DeNA/DeClang
 - https://github.com/0x3f97/ollvm-12.x
