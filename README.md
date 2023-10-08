@@ -122,6 +122,7 @@
 - https://github.com/sunfishcode/llvm2cranelift [LLVM IR to Cranelift IR]
 - https://github.com/trailofbits/circuitous [binary->LLVM->circuits]
 - https://github.com/superblaubeere27/masxinlingvonta [JVM->LLVM IR]
+- https://github.com/jagv091205/Python_to_C_converter [Python->C]
 
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
