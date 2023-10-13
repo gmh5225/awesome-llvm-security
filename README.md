@@ -373,6 +373,7 @@
 - https://github.com/brymer-meneses/lev-lang [Python's syntax]
 - https://github.com/gmh5225/synthex-lang/tree/master [rust style]
 - https://github.com/Ttimofeyka/Rave
+- https://github.com/sasalla23/ni
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
