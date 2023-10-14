@@ -49,6 +49,7 @@
 - https://github.com/veritas501/ToyObfuscator
 - https://github.com/tsarpaul/llvm-string-obfuscator
 - https://github.com/crvvdev/obfuscator
+- https://github.com/zzrcxb/fusor
 - https://github.com/bluesadi/Pluto-Obfuscator
 - https://github.com/MaxXor/obfuscator-llvm
 - https://github.com/svv232/1nsanity
