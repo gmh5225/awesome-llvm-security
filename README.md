@@ -203,6 +203,7 @@
 - https://github.com/enochii/simple-pointer-analysis [Pointer analysis]
 - https://github.com/grievejia/andersen [Pointer analysis]
 - https://github.com/GaloisInc/yapall [Pointer analysis]
+- https://github.com/shivin101/Compiler-Pass [Liveness analysis]
 - https://github.com/seahorn/clam
 - https://github.com/Veridise/Vanguard [Smart Contracts]
 - https://github.com/KDE/clazy [Qt]
