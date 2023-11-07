@@ -382,6 +382,7 @@
 - https://github.com/Ttimofeyka/Rave
 - https://github.com/sasalla23/ni
 - https://github.com/agentcooper/eye [Syntax inspired by TypeScript]
+- https://github.com/OsamaAhmad00/Dua [Antlr4]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
