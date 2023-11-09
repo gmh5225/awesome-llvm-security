@@ -20,6 +20,9 @@
 ## IDE Configuration
 - https://github.com/gmh5225/Clion-llvm_build [Clion]
 
+## Toolchain 
+- https://github.com/Kenvyra/llvm-android [Android LLVM toolchain build scripts]
+
 ## OLLVM
 
 - https://github.com/obfuscator-llvm/obfuscator
