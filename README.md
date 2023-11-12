@@ -411,6 +411,7 @@
 - https://github.com/openxla/iree [MLIR compiler]
 - https://github.com/openxla/xla [MLIR compiler]
 - https://github.com/Lewuathe/mlir-hello [MLIR Sample dialect]
+- https://github.com/llvm/Polygeist [C/C++ frontend for MLIR]
 
 ## Clangd
 - https://github.com/clangd/vscode-clangd
