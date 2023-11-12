@@ -387,6 +387,7 @@
 - https://github.com/agentcooper/eye [Syntax inspired by TypeScript]
 - https://github.com/OsamaAhmad00/Dua [Antlr4]
 - https://github.com/lang-vulpi/vulpi [Algebraic effects]
+- https://github.com/andyyu2004/l-lang [Rust-inspired]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
