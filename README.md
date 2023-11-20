@@ -388,6 +388,7 @@
 - https://github.com/OsamaAhmad00/Dua [Antlr4]
 - https://github.com/lang-vulpi/vulpi [Algebraic effects]
 - https://github.com/andyyu2004/l-lang [Rust-inspired]
+- https://github.com/techie-mike/compiler-for-vm [IR for VM]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
