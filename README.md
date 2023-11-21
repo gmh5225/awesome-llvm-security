@@ -390,6 +390,7 @@
 - https://github.com/andyyu2004/l-lang [Rust-inspired]
 - https://github.com/techie-mike/compiler-for-vm [IR for VM]
 - https://github.com/gmh5225/minir [IR written in Zig]
+- https://github.com/grachale/llvm_frontend [Inspired by Pasca]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
