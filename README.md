@@ -183,6 +183,7 @@
 ## Symbolic Execution
 - https://github.com/insufficiently-caffeinated/caffeine
 - https://github.com/R-Fuzz/symsan
+- https://github.com/PLSysSec/haybale
 
 ## Runtime Check
 - https://github.com/danteisalive/llvm-typecheking
