@@ -413,6 +413,7 @@
 ## MLIR
 - https://github.com/j2kun/mlir-tutorial [MLIR For Beginners]
 - https://github.com/gmh5225/mlir-cf-pass [out-of-tree pass]
+- https://github.com/llvm/torch-mlir [PyTorch MLIR]
 - https://github.com/openxla/iree [MLIR compiler]
 - https://github.com/openxla/xla [MLIR compiler]
 - https://github.com/Lewuathe/mlir-hello [MLIR Sample dialect]
