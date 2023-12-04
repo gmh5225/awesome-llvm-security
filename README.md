@@ -392,6 +392,7 @@
 - https://github.com/techie-mike/compiler-for-vm [IR for VM]
 - https://github.com/gmh5225/minir [IR written in Zig]
 - https://github.com/grachale/llvm_frontend [Inspired by Pasca]
+- https://github.com/red/red [Inspired by Rebol]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
