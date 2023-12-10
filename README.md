@@ -427,6 +427,14 @@
 - https://github.com/llvm/llvm-project/commit/9dd2d50984f5b02e19d3576812dc9b09ddcc9483 [COFF]
 - https://github.com/llvm/llvm-project/commit/98bc304e9faded44f1d8988ffa4c5d8b50c759ec [COFF]
 
+## LLDB
+- https://github.com/endoli/lldb-sys.rs [LLDB bindings for Rust]
+- https://github.com/tetsuo-cpp/visual-lldb [A GUI frontend for LLDB]
+- https://github.com/ant4g0nist/vegvisir [A browser based GUI for LLDB Debugger]
+- https://github.com/zmeadows/lldbg [A lightweight native GUI for LLDB]
+- https://github.com/plasma-umass/ChatDBG [LLDB with chatGPT]
+- https://github.com/teemu-hakala/debugging-masterclass [Debugging with LLDB on VSCode GUI]
+
 ## Transfer
 - https://github.com/sbip-sg/tsll
 - https://github.com/Acmodeus/O2M_LLVM
