@@ -434,6 +434,9 @@
 - https://github.com/zmeadows/lldbg [A lightweight native GUI for LLDB]
 - https://github.com/plasma-umass/ChatDBG [LLDB with chatGPT]
 - https://github.com/teemu-hakala/debugging-masterclass [Debugging with LLDB on VSCode GUI]
+- https://github.com/vadimcn/codelldb [A native debugger extension for VSCode based on LLDB]
+- https://github.com/facebookarchive/ds2 [Debug server for lldb]
+- https://github.com/yangyss/lldb-trace
 
 ## Transfer
 - https://github.com/sbip-sg/tsll
