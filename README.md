@@ -381,7 +381,7 @@
 - https://github.com/zourenDevote/KaleidoscopeLanguage [Kaleidoscope]
 - https://github.com/gmh5225/PJDCc [PJDC]
 - https://github.com/arnetheduck/nlvm [Nim]
-- https://github.com/brymer-meneses/lev-lang [Python's syntax]
+- https://github.com/brymer-meneses/lev-lang [rust style]
 - https://github.com/gmh5225/synthex-lang/tree/master [rust style]
 - https://github.com/Ttimofeyka/Rave
 - https://github.com/sasalla23/ni
