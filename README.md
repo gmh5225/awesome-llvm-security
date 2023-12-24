@@ -24,7 +24,6 @@
 - https://github.com/Kenvyra/llvm-android [Android LLVM toolchain build scripts]
 
 ## OLLVM
-
 - https://github.com/obfuscator-llvm/obfuscator
 - https://github.com/isrc-cas/flounder
 - https://github.com/romangol/Armariries
@@ -233,6 +232,7 @@
 ## Virtual Machine 
 - https://github.com/jakogut/tinyvm
 - https://github.com/gmh5225/tinyvm-msvc
+- https://github.com/thesecretclub/riscy-business [RISC-V]
 
 ## DIY Compiler
 - https://github.com/ethereum/solidity
