@@ -233,6 +233,7 @@
 - https://github.com/jakogut/tinyvm
 - https://github.com/gmh5225/tinyvm-msvc
 - https://github.com/thesecretclub/riscy-business [RISC-V]
+- https://github.com/MaxXSoft/sigma-vm [Sigma]
 
 ## DIY Compiler
 - https://github.com/ethereum/solidity
