@@ -183,6 +183,7 @@
 - https://github.com/insufficiently-caffeinated/caffeine
 - https://github.com/R-Fuzz/symsan
 - https://github.com/PLSysSec/haybale
+- https://github.com/eurecom-s3/symcc
 
 ## Runtime Check
 - https://github.com/danteisalive/llvm-typecheking
