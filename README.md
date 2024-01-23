@@ -22,6 +22,7 @@
 
 ## Toolchain 
 - https://github.com/Kenvyra/llvm-android [Android LLVM toolchain build scripts]
+- https://github.com/swift-nav/swift-toolchains [toolchains used at Swift]
 
 ## OLLVM
 - https://github.com/obfuscator-llvm/obfuscator
