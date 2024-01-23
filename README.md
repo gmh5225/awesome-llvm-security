@@ -197,6 +197,9 @@
 ## Mathematics related
 - https://github.com/vgvassilev/clad
 
+## Memory Leak Detector
+- https://github.com/hygoni/precise-leak-sanitizer
+
 ## Sanitizer
 - https://github.com/google/sanitizers
 
