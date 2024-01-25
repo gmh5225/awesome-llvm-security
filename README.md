@@ -134,6 +134,7 @@
 - https://github.com/jagv091205/Python_to_C_converter [Python->C]
 - https://github.com/TBSI-RIOS-Lab/elf-lifter [RISC-V Binary Lifting]
 - https://github.com/jeremy-rifkin/wyrm [GCC GIMPLE to LLVM IR]
+- https://github.com/loyaltypollution/ida2llvm [IDA to LLVM]
 
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
