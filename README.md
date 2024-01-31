@@ -290,6 +290,7 @@
 - https://github.com/skyzluo/CS143-Compilers-Stanford
 - https://github.com/TinyCC/tinycc [tcc]
 - https://github.com/alekmaul/tcc [tcc]
+- https://github.com/rochus-keller/TccGen [tcc]
 - https://github.com/rswier/c4 [c4]
 - https://github.com/EarlGray/c4 [c4 jit]
 - https://bellard.org/otcc [otcc-c4]
