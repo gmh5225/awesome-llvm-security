@@ -413,6 +413,7 @@
 - https://github.com/candy-lang/candy [robust, minimalistic, and expressive]
 - https://github.com/SamoZ256/lvslang [LVSL]
 - https://github.com/debugx-x/HighLevel-Compiler [Java-Based Compiler]
+- https://github.com/mathieudelehaye/JavaToLLVMIRCompiler [Java-Based Compiler]
 - https://github.com/ianw3214/velvet [With VSC extension]
 - https://github.com/rochus-keller/Micron [Micron]
 
