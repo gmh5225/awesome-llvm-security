@@ -80,6 +80,7 @@
 - https://github.com/Despire/llvm-obfuscator
 - https://github.com/DrShabulaji/Paper_Obfs
 - https://github.com/janoglezcampos/llvm-yx-callobfuscator
+- https://github.com/Brythzz/cfg-flattening-pass [CFG Flattening for LLVM 17]
 - https://github.com/dwuid/chenxification [OLLVM 4]
 - https://github.com/joaovarelas/Obfuscator-LLVM-16.0 [OLLVM 16]
 - https://github.com/MustangYM/ShelbyObfuscator [OLLVM 16]
