@@ -410,6 +410,7 @@
 - https://github.com/gmh5225/minir [IR written in Zig]
 - https://github.com/grachale/llvm_frontend [Inspired by Pasca]
 - https://github.com/red/red [Inspired by Rebol]
+- https://github.com/vvaltchev/mylang [Inspired by Python, JavaScript and C]
 - https://github.com/candy-lang/candy [robust, minimalistic, and expressive]
 - https://github.com/SamoZ256/lvslang [LVSL]
 - https://github.com/debugx-x/HighLevel-Compiler [Java-Based Compiler]
