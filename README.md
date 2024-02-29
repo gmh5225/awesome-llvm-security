@@ -26,6 +26,7 @@
 
 ## OLLVM
 - https://github.com/obfuscator-llvm/obfuscator
+- https://github.com/Cobalt-Strike/obfuscator-llvm
 - https://github.com/isrc-cas/flounder
 - https://github.com/romangol/Armariries
 - https://github.com/amimo/goron
