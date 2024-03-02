@@ -161,6 +161,7 @@
 - https://github.com/YutaroOrikasa/ljf-project [LLVM based JIT Framework]
 - https://github.com/JLLVM/JLLVM [JVM implementation using LLVM as a JIT]
 - https://github.com/Themaister/MIPS-LLVM-Jitter [MIPS to LLVM IR recompiler]
+- https://github.com/dstogov/ir [Lightweight JIT Compilation Framework]
 
 ## Rust Manipulation
 - https://github.com/jauhien/iron-kaleidoscope [LLVM tutorial in Rust language]
