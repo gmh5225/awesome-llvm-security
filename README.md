@@ -38,6 +38,7 @@
 - https://github.com/NeHyci/Hikari-LLVM15-Core
 - https://github.com/61bcdefg/Hikari-LLVM15-Headers
 - https://github.com/HakonHarnes/emcc-obf [Hikari]
+- https://github.com/WYK15/swift-Ollvm11 [apple llvm 11 (swift-llvm 5.4)]
 - https://github.com/DeNA/DeClang
 - https://github.com/0x3f97/ollvm-12.x
 - https://github.com/kk-laoguo/ollvm-13
