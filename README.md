@@ -257,6 +257,7 @@
 
 ## DIY Compiler
 - https://github.com/ethereum/solidity
+- https://github.com/gleam-lang/gleam [type-safe]
 - https://github.com/microsoft/checkedc-clang
 - https://github.com/tylerweston/ccc
 - https://github.com/kumachan-mis/umlcc [C]
