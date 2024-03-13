@@ -425,6 +425,8 @@
 - https://github.com/ianw3214/velvet [With VSC extension]
 - https://github.com/rochus-keller/Micron [Micron]
 - https://github.com/IITH-Compilers/P4LLVM [P4]
+- https://github.com/wandvvs/dust-lang [Imperative programming]
+- https://github.com/elixir-lang/elixir [Dynamic, functional language]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
