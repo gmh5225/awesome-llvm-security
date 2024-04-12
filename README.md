@@ -284,6 +284,7 @@
 - https://github.com/tj/luna
 - https://github.com/fanx-dev/fanx
 - https://github.com/PipeRift/rift
+- https://github.com/JuliaLang/julia
 - https://github.com/lotabout/write-a-C-interpreter
 - https://github.com/foonathan/clauf [C interpreter]
 - https://github.com/root-project/cling [C++ interpreter]
