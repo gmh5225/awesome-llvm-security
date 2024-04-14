@@ -430,6 +430,7 @@
 - https://github.com/IITH-Compilers/P4LLVM [P4]
 - https://github.com/wandvvs/dust-lang [Imperative programming]
 - https://github.com/elixir-lang/elixir [Dynamic, functional language]
+- https://github.com/mlang-dev/m [For WebAssembly]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
