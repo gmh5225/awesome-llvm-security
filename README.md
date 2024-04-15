@@ -431,6 +431,7 @@
 - https://github.com/wandvvs/dust-lang [Imperative programming]
 - https://github.com/elixir-lang/elixir [Dynamic, functional language]
 - https://github.com/mlang-dev/m [For WebAssembly]
+- https://github.com/Vinz2008/C. [C-like]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
