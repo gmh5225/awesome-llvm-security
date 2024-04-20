@@ -34,9 +34,7 @@
 - https://github.com/emc2314/YANSOllvm
 - https://github.com/HikariObfuscator/Hikari
 - https://github.com/Lessica/HikariSummer
-- https://github.com/NeHyci/Hikari-LLVM15
-- https://github.com/NeHyci/Hikari-LLVM15-Core
-- https://github.com/61bcdefg/Hikari-LLVM15-Headers
+- https://github.com/61bcdefg/Hikari-LLVM15
 - https://github.com/HakonHarnes/emcc-obf [Hikari]
 - https://github.com/WYK15/swift-Ollvm11 [apple llvm 11 (swift-llvm 5.4)]
 - https://github.com/DeNA/DeClang
