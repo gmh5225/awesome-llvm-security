@@ -431,6 +431,7 @@
 - https://github.com/mlang-dev/m [For WebAssembly]
 - https://github.com/Vinz2008/C. [C-like]
 - https://github.com/michael-lehn/abc-llvm [A Bloody Compiler with llvm backend]
+- https://github.com/VKCOM/kphp [PHP compiler]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
