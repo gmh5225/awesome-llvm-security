@@ -89,6 +89,7 @@
 - https://github.com/MustangYM/ShelbyObfuscator [OLLVM 16]
 - https://github.com/AimiP02/BronyaObfus [OLLVM 16]
 - https://github.com/wwh1004/ollvm-16 [OLLVM 16]
+- https://github.com/za233/Polaris-Obfuscator [OLLVM 16]
 - https://github.com/killvxk/llvm-msvc-ex [OLLVM 18]
 
 ## MSVC Warbird
