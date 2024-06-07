@@ -17,6 +17,10 @@
 - https://github.com/true-grue/Compiler-Development
 - https://github.com/rust-hosted-langs/book [Writing Interpreters in Rust]
 
+## Papers
+- [SATURN: Software Deobfuscation Framework Based on LLVM](https://arxiv.org/pdf/1909.01752)
+- [Modern Obfuscation Techniques](https://is.muni.cz/th/v1f9y/Modern_obfuscation_techniques.pdf)
+
 ## IDE Configuration
 - https://github.com/gmh5225/Clion-llvm_build [Clion]
 
