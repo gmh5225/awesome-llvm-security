@@ -87,6 +87,7 @@
 - https://github.com/janoglezcampos/llvm-yx-callobfuscator
 - https://github.com/leetonidas/linearize
 - https://github.com/cainiao1992/ollvm-mingw [mingw-w64 toolchain]
+- https://github.com/0xlane/ollvm-rust [rust toolchain]
 - https://github.com/Brythzz/cfg-flattening-pass [CFG Flattening for LLVM 17]
 - https://github.com/dwuid/chenxification [OLLVM 4]
 - https://github.com/joaovarelas/Obfuscator-LLVM-16.0 [OLLVM 16]
