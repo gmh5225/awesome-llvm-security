@@ -268,6 +268,7 @@
 - https://github.com/microsoft/checkedc-clang
 - https://github.com/tylerweston/ccc
 - https://github.com/kumachan-mis/umlcc [C]
+- https://github.com/lcompilers/lc [C++]
 - https://github.com/greydevv/cpp-compiler
 - https://github.com/stardust95/TinyCompiler
 - https://github.com/drop-stones/Tiny-C
