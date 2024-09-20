@@ -418,6 +418,7 @@
 - https://github.com/brymer-meneses/lev-lang [rust style]
 - https://github.com/gmh5225/synthex-lang/tree/master [rust style]
 - https://github.com/edg-l/edlang [rust style]
+- https://github.com/Baleg00/tau-lang [rust style]
 - https://github.com/Ttimofeyka/Rave
 - https://github.com/sasalla23/ni
 - https://github.com/agentcooper/eye [Syntax inspired by TypeScript]
