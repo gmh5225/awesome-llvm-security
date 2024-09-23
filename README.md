@@ -420,6 +420,7 @@
 - https://github.com/gmh5225/synthex-lang/tree/master [rust style]
 - https://github.com/edg-l/edlang [rust style]
 - https://github.com/Baleg00/tau-lang [rust style]
+- https://github.com/zuojianfa/ca-lang [rust style]
 - https://github.com/Ttimofeyka/Rave
 - https://github.com/sasalla23/ni
 - https://github.com/agentcooper/eye [Syntax inspired by TypeScript]
@@ -442,6 +443,8 @@
 - https://github.com/elixir-lang/elixir [Dynamic, functional language]
 - https://github.com/mlang-dev/m [For WebAssembly]
 - https://github.com/Vinz2008/C. [C-like]
+- https://github.com/eckertliam/newc [C-like]
+- https://github.com/JohnMitchell04/toy-langauge [C-like]
 - https://github.com/michael-lehn/abc-llvm [A Bloody Compiler with llvm backend]
 - https://github.com/VKCOM/kphp [PHP compiler]
 
