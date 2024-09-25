@@ -99,6 +99,7 @@
 - https://github.com/wwh1004/ollvm-16 [OLLVM 16]
 - https://github.com/za233/Polaris-Obfuscator [OLLVM 16]
 - https://github.com/killvxk/llvm-msvc-ex [OLLVM 18]
+- https://github.com/can1357/selene/tree/master/apollo-linker [DIY obfuscation linker]
 
 ## MSVC Warbird
 - https://github.com/gmh5225/warbird-obfuscator
