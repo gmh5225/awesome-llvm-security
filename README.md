@@ -207,7 +207,7 @@
 - https://github.com/PLSysSec/haybale
 - https://github.com/eurecom-s3/symcc
 
-## SMT olving
+## SMT solving
 - https://github.com/mikekben/SLOT [SMT-LLVM Optimizing Translation]
 
 ## Runtime Check
