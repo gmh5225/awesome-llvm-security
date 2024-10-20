@@ -452,6 +452,7 @@
 - https://github.com/JohnMitchell04/toy-langauge [C-like]
 - https://github.com/michael-lehn/abc-llvm [A Bloody Compiler with llvm backend]
 - https://github.com/VKCOM/kphp [PHP compiler]
+- https://github.com/c2lang/c2compiler [c2 compiler]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
