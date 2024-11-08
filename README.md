@@ -481,8 +481,9 @@
 - https://github.com/Lewuathe/mlir-hello [MLIR Sample dialect]
 - https://github.com/llvm/Polygeist [C/C++ frontend for MLIR]
 
-## Clangd
+## Clangd/Language Server
 - https://github.com/clangd/vscode-clangd
+- https://github.com/clice-project/clice [new language server]
 
 ## LLD
 - https://github.com/llvm/llvm-project/commit/9dd2d50984f5b02e19d3576812dc9b09ddcc9483 [COFF]
