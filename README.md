@@ -602,6 +602,7 @@
 - https://github.com/Jonathan2251/lbd [backend]
 - https://github.com/lac-dcc/llvm-course
 - https://github.com/vhiribarren/llvm-tuto-kaleidoscope-rust [Kaleidoscope rust]
+- https://github.com/xLox-x/llvm-pass-manager-demos [llvm pass demos by using new pas manager]
 
 ## Clang Tutorial
 - https://github.com/banach-space/clang-tutor
