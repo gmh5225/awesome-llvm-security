@@ -9,6 +9,7 @@
 
 ## Guide
 - https://llvm.org/docs
+- https://github.com/rice7th/compilers-resources [A list of compiler related resources]
 - https://github.com/learn-llvm/awesome-llvm
 - https://github.com/DoctorWkt/acwj
 - https://github.com/aalhour/awesome-compilers
