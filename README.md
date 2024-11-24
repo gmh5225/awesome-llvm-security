@@ -17,6 +17,7 @@
 - https://www.llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html
 - https://github.com/true-grue/Compiler-Development
 - https://github.com/rust-hosted-langs/book [Writing Interpreters in Rust]
+- https://github.com/0xSh4dy/learning_llvm [Learning LLVM]
 
 ## Papers
 - [SATURN: Software Deobfuscation Framework Based on LLVM](https://arxiv.org/pdf/1909.01752)
