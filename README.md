@@ -225,6 +225,7 @@
 
 ## Sanitizer
 - https://github.com/google/sanitizers
+- https://github.com/tudasc/TypeART [LLVM-based type and memory allocation tracking sanitizer]
 
 ## Static Analysis
 - https://github.com/secure-software-engineering/phasar
