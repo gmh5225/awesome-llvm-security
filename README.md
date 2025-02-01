@@ -41,6 +41,7 @@
 - https://github.com/HikariObfuscator/Hikari
 - https://github.com/Lessica/HikariSummer
 - https://github.com/61bcdefg/Hikari-LLVM15
+- https://github.com/PPKunOfficial/Hikari-LLVM19
 - https://github.com/HakonHarnes/emcc-obf [Hikari]
 - https://github.com/lich4/llvm-pass-hikari [Independent Hikari]
 - https://github.com/WYK15/swift-Ollvm11 [apple llvm 11 (swift-llvm 5.4)]
