@@ -149,6 +149,7 @@
 - https://github.com/trailofbits/circuitous [binary->LLVM->circuits]
 - https://github.com/superblaubeere27/masxinlingvonta [JVM->LLVM IR]
 - https://github.com/jagv091205/Python_to_C_converter [Python->C]
+- https://github.com/t3tra-dev/pyc [Python->LLVM IR]
 - https://github.com/TBSI-RIOS-Lab/elf-lifter [RISC-V Binary Lifting]
 - https://github.com/jeremy-rifkin/wyrm [GCC GIMPLE to LLVM IR]
 - https://github.com/loyaltypollution/ida2llvm [IDA to LLVM]
