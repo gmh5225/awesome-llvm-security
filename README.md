@@ -103,6 +103,7 @@
 - https://github.com/za233/Polaris-Obfuscator [OLLVM 16]
 - https://github.com/killvxk/llvm-msvc-ex [OLLVM 18]
 - https://github.com/can1357/selene/tree/master/apollo-linker [DIY obfuscation linker]
+- https://github.com/djolertrk/kovid-obfuscation-passes [A set of LLVM and GCC based plugins that perform code obfustaion]
 
 ## MSVC Warbird
 - https://github.com/gmh5225/warbird-obfuscator
