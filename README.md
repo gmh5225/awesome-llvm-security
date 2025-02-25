@@ -106,6 +106,7 @@
 - https://github.com/djolertrk/kovid-obfuscation-passes [A set of LLVM and GCC based plugins that perform code obfustaion]
 
 ## MSVC Warbird
+- https://github.com/gmh5225/warbird-docs [Documentation of Microsoft's Warbird obfuscation]
 - https://github.com/gmh5225/warbird-obfuscator
 - https://github.com/gmh5225/warbird-runtime
 - https://github.com/gmh5225/warbirdvm
