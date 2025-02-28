@@ -462,6 +462,11 @@
 - https://github.com/VKCOM/kphp [PHP compiler]
 - https://github.com/c2lang/c2compiler [c2 compiler]
 
+
+## Out-of-tree LLVM pass
+- https://github.com/MitchBriles/PtrIntRoundTripRemover [Pointer-Integer Round Trip Remover]
+- https://github.com/djolertrk/kovid-obfuscation-passes [A set of LLVM and GCC based plugins that perform code obfustaion]
+
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
 - https://github.com/theuni/bitcoin-tidy
