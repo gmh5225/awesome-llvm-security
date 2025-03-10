@@ -214,6 +214,7 @@
 - https://github.com/R-Fuzz/symsan
 - https://github.com/PLSysSec/haybale
 - https://github.com/eurecom-s3/symcc
+- https://github.com/phulin/symbolic-trace [Symbolic execution of LLVM IR traces for program understanding]
 
 ## SMT solving
 - https://github.com/mikekben/SLOT [SMT-LLVM Optimizing Translation]
