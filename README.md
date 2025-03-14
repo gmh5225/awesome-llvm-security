@@ -284,6 +284,7 @@
 - https://github.com/RealNeGate/Cuik [Modern C11]
 - https://github.com/tylerweston/ccc
 - https://github.com/kumachan-mis/umlcc [C]
+- https://github.com/pizlonator/llvm-project-deluge [Fil-C]
 - https://github.com/lcompilers/lc [C++]
 - https://github.com/greydevv/cpp-compiler
 - https://github.com/stardust95/TinyCompiler
