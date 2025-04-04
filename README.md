@@ -179,6 +179,7 @@
 - https://github.com/JLLVM/JLLVM [JVM implementation using LLVM as a JIT]
 - https://github.com/Themaister/MIPS-LLVM-Jitter [MIPS to LLVM IR recompiler]
 - https://github.com/dstogov/ir [Lightweight JIT Compilation Framework]
+- https://github.com/light-tech/LLVM-On-iOS [use LLVM + Clang to provide an iOS app with some scripting capability]
 
 ## Rust Manipulation
 - https://github.com/jauhien/iron-kaleidoscope [LLVM tutorial in Rust language]
