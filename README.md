@@ -280,6 +280,7 @@
 
 ## DIY Compiler
 - https://github.com/ethereum/solidity
+- https://github.com/swiftlang/llvm-project [llvm for apple]
 - https://github.com/gleam-lang/gleam [type-safe]
 - https://github.com/microsoft/checkedc-clang
 - https://github.com/RealNeGate/Cuik [Modern C11]
