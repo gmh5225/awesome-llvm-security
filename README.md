@@ -439,6 +439,7 @@
 - https://github.com/edg-l/edlang [rust style]
 - https://github.com/Baleg00/tau-lang [rust style]
 - https://github.com/zuojianfa/ca-lang [rust style]
+- https://github.com/caoimhebyrne/petal [rust style]
 - https://github.com/Ttimofeyka/Rave
 - https://github.com/sasalla23/ni
 - https://github.com/agentcooper/eye [Syntax inspired by TypeScript]
