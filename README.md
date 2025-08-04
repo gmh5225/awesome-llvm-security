@@ -105,6 +105,7 @@
 - https://github.com/can1357/selene/tree/master/apollo-linker [DIY obfuscation linker]
 - https://github.com/djolertrk/kovid-obfuscation-passes [A set of LLVM and GCC based plugins that perform code obfustaion]
 - https://github.com/MrRoy09/VMwhere [regular ollvm]
+- https://github.com/LLVM-PASS/IRvana [Slaying multi-language LLVM IR with obfuscation passes to achieve JIT execution]
 
 ## MSVC Warbird
 - https://github.com/gmh5225/warbird-docs [Documentation of Microsoft's Warbird obfuscation]
