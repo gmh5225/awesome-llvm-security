@@ -183,6 +183,7 @@
 - https://github.com/dstogov/ir [Lightweight JIT Compilation Framework]
 - https://github.com/light-tech/LLVM-On-iOS [use LLVM + Clang to provide an iOS app with some scripting capability]
 - https://github.com/viktorika/jitfusion [A execution engine completely based on llvm]
+- https://github.com/LLVM-PASS/IRvana [Slaying multi-language LLVM IR with obfuscation passes to achieve JIT execution]
 
 ## Rust Manipulation
 - https://github.com/jauhien/iron-kaleidoscope [LLVM tutorial in Rust language]
