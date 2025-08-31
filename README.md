@@ -472,6 +472,7 @@
 - https://github.com/c2lang/c2compiler [c2 compiler]
 - https://github.com/matter-labs/solx [LLVM-based Compiler Toolchain for Solidity and Yul]
 - https://github.com/tpde2/tpde [A fast framework for writing baseline compiler back-ends in C++]
+- https://github.com/Fare9/MyCCompiler [C]
 
 
 ## Out-of-tree LLVM pass
