@@ -79,7 +79,8 @@
 - https://github.com/KpwnZ/sllvm
 - https://github.com/open-obfuscator/o-mvll
 - https://github.com/trustdecision/td-ollvm
-- https://github.com/GANGE666/xVMP
+- https://github.com/GANGE666/xVMP [IR VMP]
+- https://github.com/NiTianErXing666/SmallVmp [IR VMP]
 - https://github.com/KomiMoe/Arkari
 - https://github.com/thomasxm/Akira-obfuscator 
 - https://github.com/Yuerino/obfuscator-pass
