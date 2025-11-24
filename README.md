@@ -116,6 +116,7 @@
 - https://github.com/DownWithUp/WarbirdExamples
 - https://github.com/gmh5225/warbird-example
 - https://github.com/GetRektBoy724/warbird-research [Find out how to bypass HVCI (or not)]
+- https://github.com/are-we-cool-yet/debird [Decrypt Warbird segments]
 
 ## LIFT
 - https://github.com/avast/retdec
