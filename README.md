@@ -108,6 +108,7 @@
 - https://github.com/MrRoy09/VMwhere [regular ollvm]
 - https://github.com/LLVM-PASS/IRvana [Slaying multi-language LLVM IR with obfuscation passes to achieve JIT execution]
 - https://github.com/rottaj/obfuscator-llvm [Some fixes to eShard's LLVM obfuscator to support LLVM 19 and updated README for Windows installment]
+- https://github.com/PeterHackz/zyrox [LLVM based, compile-time obfuscator plugin]
 
 ## MSVC Warbird
 - https://github.com/gmh5225/warbird-docs [Documentation of Microsoft's Warbird obfuscation]
