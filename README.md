@@ -286,6 +286,7 @@
 - https://github.com/marcosantos98/llvm-test
 - https://github.com/thesecretclub/riscy-business [RISC-V]
 - https://github.com/MaxXSoft/sigma-vm [Sigma]
+- https://github.com/LPC4/Triton-64 [A complete 64-bit virtual machine implementation featuring a custom CPU architecture, assembler, compiler]
 
 ## DIY Compiler
 - https://github.com/ethereum/solidity
