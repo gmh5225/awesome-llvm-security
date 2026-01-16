@@ -3,6 +3,12 @@
 
 [![GitHub license](https://img.shields.io/github/license/gmh5225/awesome-llvm-security)](https://github.com/gmh5225/awesome-llvm-security/blob/main/LICENSE)
 
+```
+If you find that some links are not working, you can simply replace the username with gmh5225. 
+Or you can send an issue for me.
+```
+## Show respect to all the projects below, perfect works of art :saluting_face: 
+
 ## How to contribute?
 - https://github.com/HyunCafe/contribute-practice
 - https://docs.github.com/en/get-started/quickstart/contributing-to-projects
