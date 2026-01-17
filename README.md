@@ -1,5 +1,5 @@
 
-# `awesome-llvm-security`
+# `awesome-llvm-security`[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![GitHub license](https://img.shields.io/github/license/gmh5225/awesome-llvm-security)](https://github.com/gmh5225/awesome-llvm-security/blob/main/LICENSE)
 
