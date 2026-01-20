@@ -478,6 +478,7 @@
 - https://github.com/matter-labs/solx [LLVM-based Compiler Toolchain for Solidity and Yul]
 - https://github.com/tpde2/tpde [A fast framework for writing baseline compiler back-ends in C++]
 - https://github.com/Fare9/MyCCompiler [C]
+- https://github.com/ITCraftDevelopmentTeam/SakuraE [A simple, compiled language]
 
 
 ## Out-of-tree LLVM pass
