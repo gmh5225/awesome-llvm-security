@@ -1,7 +1,13 @@
 
-# `awesome-llvm-security`
+# `awesome-llvm-security`[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![GitHub license](https://img.shields.io/github/license/gmh5225/awesome-llvm-security)](https://github.com/gmh5225/awesome-llvm-security/blob/main/LICENSE)
+
+```
+If you find that some links are not working, you can simply replace the username with gmh5225. 
+Or you can send an issue for me.
+```
+> Show respect to all the projects below, perfect works of art :saluting_face:
 
 ## How to contribute?
 - https://github.com/HyunCafe/contribute-practice
@@ -286,6 +292,7 @@
 - https://github.com/marcosantos98/llvm-test
 - https://github.com/thesecretclub/riscy-business [RISC-V]
 - https://github.com/MaxXSoft/sigma-vm [Sigma]
+- https://github.com/LPC4/Triton-64 [A complete 64-bit virtual machine implementation featuring a custom CPU architecture, assembler, compiler]
 
 ## DIY Compiler
 - https://github.com/ethereum/solidity
