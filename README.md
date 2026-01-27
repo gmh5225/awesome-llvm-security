@@ -13,6 +13,38 @@ Or you can send an issue for me.
 - https://github.com/HyunCafe/contribute-practice
 - https://docs.github.com/en/get-started/quickstart/contributing-to-projects
 
+## Skills for AI Coding Assistants
+This repository provides skills that can be used with AI coding assistants like [Cursor](https://www.cursor.com/), [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [Codex CLI](https://github.com/openai/codex), and other compatible tools. Install skills to get specialized knowledge about LLVM security topics.
+
+**Installation:**
+```bash
+npx skills add https://github.com/gmh5225/awesome-llvm-security --skill <skill-name>
+```
+
+**Available Skills:**
+| Skill | Description |
+|-------|-------------|
+| `binary-lifting` | Binary lifting techniques - converting machine code to LLVM IR |
+| `compiler-development` | Compiler development using LLVM infrastructure |
+| `dynamic-instrumentation` | Dynamic binary instrumentation and runtime tracing |
+| `llvm-learning` | Learning resources and tutorials for LLVM/Clang |
+| `llvm-obfuscation` | LLVM-based code obfuscation techniques |
+| `llvm-optimization` | Optimization passes and performance tuning |
+| `llvm-security` | Security features, sanitizers, and hardening |
+| `llvm-tooling` | Clang plugins, LLDB extensions, and LibTooling |
+| `mlir-development` | MLIR and CIR development for domain-specific compilation |
+| `static-analysis` | Static analysis, dataflow analysis, and taint tracking |
+
+**Example:**
+```bash
+# Install LLVM obfuscation skill
+npx skills add https://github.com/gmh5225/awesome-llvm-security --skill llvm-obfuscation
+
+# Install multiple skills
+npx skills add https://github.com/gmh5225/awesome-llvm-security --skill static-analysis
+npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-lifting
+```
+
 ## Guide
 - https://llvm.org/docs
 - https://github.com/rice7th/compilers-resources [A list of compiler related resources]
