@@ -95,3 +95,17 @@ When implementing obfuscation:
 ## Resources
 
 Refer to the main README.md for a comprehensive list of OLLVM implementations and related tools.
+
+## Getting Detailed Information
+
+When you need detailed and up-to-date resource links, tool lists, or project references, fetch the latest data from:
+
+```
+https://raw.githubusercontent.com/gmh5225/awesome-llvm-security/refs/heads/main/README.md
+```
+
+This README contains comprehensive curated lists of:
+- 80+ OLLVM implementations and forks (OLLVM section)
+- MSVC Warbird obfuscation tools (MSVC Warbird section)
+- IR-based VMP and virtualization projects
+- NDK integration examples for different versions

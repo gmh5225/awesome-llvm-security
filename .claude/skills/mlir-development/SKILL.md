@@ -348,3 +348,16 @@ mlir-translate input.ll --import-llvm -o output.mlir
 ## Resources
 
 See MLIR and CIR sections in README.md for tutorials and example projects.
+
+## Getting Detailed Information
+
+When you need detailed and up-to-date resource links, tool lists, or project references, fetch the latest data from:
+
+```
+https://raw.githubusercontent.com/gmh5225/awesome-llvm-security/refs/heads/main/README.md
+```
+
+This README contains comprehensive curated lists of:
+- MLIR tutorials and sample dialects (MLIR section)
+- CIR (Clang IR) projects and documentation (CIR section)
+- ML/AI compiler frameworks (torch-mlir, IREE, XLA)

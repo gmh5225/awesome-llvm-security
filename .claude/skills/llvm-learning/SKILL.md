@@ -297,3 +297,17 @@ CallGraph &CG = MAM.getResult<CallGraphAnalysis>(M);
 ## Resources Index
 
 For a comprehensive list of tutorials, books, and example projects, see the LLVM Tutorial and Clang Tutorial sections in the main README.md.
+
+## Getting Detailed Information
+
+When you need detailed and up-to-date resource links, tutorials, or learning materials, fetch the latest data from:
+
+```
+https://raw.githubusercontent.com/gmh5225/awesome-llvm-security/refs/heads/main/README.md
+```
+
+This README contains comprehensive curated lists of:
+- LLVM tutorials and learning resources (LLVM Tutorial section)
+- Clang tutorials and AST guides (Clang Tutorial section)
+- C++ modern programming guides (CPP Tutorial section)
+- Compiler and security books

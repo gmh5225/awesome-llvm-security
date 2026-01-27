@@ -232,3 +232,17 @@ void checkBufferAccess(llvm::GetElementPtrInst* GEP) {
 ## Resources
 
 See Static Analysis and Clang Plugins sections in README.md for comprehensive tool listings and research references.
+
+## Getting Detailed Information
+
+When you need detailed and up-to-date resource links, tool lists, or project references, fetch the latest data from:
+
+```
+https://raw.githubusercontent.com/gmh5225/awesome-llvm-security/refs/heads/main/README.md
+```
+
+This README contains comprehensive curated lists of:
+- Static analysis frameworks (Static Analysis section)
+- Pointer analysis and taint tracking tools
+- Program verification and bug finding tools
+- Clang-based code analysis plugins

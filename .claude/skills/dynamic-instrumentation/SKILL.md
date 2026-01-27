@@ -362,3 +362,16 @@ void onBreakpoint(void *addr, void *context) {
 ## Resources
 
 See Dynamic Binary Instrumentation, Monitor, and eBPF sections in README.md for related tools and projects.
+
+## Getting Detailed Information
+
+When you need detailed and up-to-date resource links, tool lists, or project references, fetch the latest data from:
+
+```
+https://raw.githubusercontent.com/gmh5225/awesome-llvm-security/refs/heads/main/README.md
+```
+
+This README contains comprehensive curated lists of:
+- Dynamic Binary Instrumentation tools (DBI section)
+- Runtime monitoring and tracing tools (Monitor section)
+- eBPF-related projects and resources

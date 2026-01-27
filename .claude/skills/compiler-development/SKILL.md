@@ -219,3 +219,16 @@ struct MyPass : public llvm::PassInfoMixin<MyPass> {
 
 ### Community Projects
 See DIY Compiler section in README.md for 100+ example implementations across different language paradigms.
+
+## Getting Detailed Information
+
+When you need detailed and up-to-date resource links, tool lists, or project references, fetch the latest data from:
+
+```
+https://raw.githubusercontent.com/gmh5225/awesome-llvm-security/refs/heads/main/README.md
+```
+
+This README contains comprehensive curated lists of:
+- 100+ DIY compiler implementations (DIY Compiler section)
+- Toolchain configurations and IDE setup
+- Compiler development tutorials and books

@@ -134,3 +134,16 @@ Lift frequently executed code paths for runtime optimization:
 ## Resources
 
 For a complete list of lifting tools and research papers, refer to the LIFT section in the main README.md.
+
+## Getting Detailed Information
+
+When you need detailed and up-to-date resource links, tool lists, or project references, fetch the latest data from:
+
+```
+https://raw.githubusercontent.com/gmh5225/awesome-llvm-security/refs/heads/main/README.md
+```
+
+This README contains comprehensive curated lists of:
+- Binary lifting frameworks and tools (LIFT section)
+- Related research papers and documentation
+- Implementation examples and tutorials
