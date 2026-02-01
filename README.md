@@ -147,6 +147,7 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 - https://github.com/LLVM-PASS/IRvana [Slaying multi-language LLVM IR with obfuscation passes to achieve JIT execution]
 - https://github.com/rottaj/obfuscator-llvm [Some fixes to eShard's LLVM obfuscator to support LLVM 19 and updated README for Windows installment]
 - https://github.com/PeterHackz/zyrox [LLVM based, compile-time obfuscator plugin]
+- https://github.com/thebabush/llvm-jutsu [Anti-LLM obfuscation via finger counting]
 
 ## MSVC Warbird
 - https://github.com/gmh5225/warbird-docs [Documentation of Microsoft's Warbird obfuscation]
