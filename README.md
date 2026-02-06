@@ -328,6 +328,7 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 - https://github.com/LPC4/Triton-64 [A complete 64-bit virtual machine implementation featuring a custom CPU architecture, assembler, compiler]
 
 ## DIY Compiler
+- https://github.com/anthropics/claudes-c-compiler [Claude Opus 4.6 wrote a dependency-free C compiler in Rust]
 - https://github.com/ethereum/solidity
 - https://github.com/swiftlang/llvm-project [llvm for apple]
 - https://github.com/gleam-lang/gleam [type-safe]
