@@ -406,6 +406,7 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 - https://github.com/carbon-language/carbon-lang
 - https://github.com/Omyyyy/pycom [python]
 - https://github.com/zero9178/Pylir [python]
+- https://github.com/pydantic/monty [A minimal, secure Python interpreter written in Rust for use by AI]
 - https://github.com/rakudo/rakudo [Raku]
 - https://github.com/agraef/pure-lang
 - https://github.com/Xeouz/vire
