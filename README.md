@@ -352,7 +352,7 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 - https://github.com/PLC-lang/rusty
 - https://github.com/henne90gen/Neon
 - https://github.com/tinygo-org/tinygo [GO]
-- https://github.com/go-llvm/llgo [GO]
+- https://github.com/goplus/llgo [GO]
 - https://github.com/ab25cq/comelang
 - https://github.com/sleirsgoevy/ps4-rop-8cc
 - https://github.com/keiichiw/constexpr-8cc
