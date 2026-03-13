@@ -255,6 +255,7 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 - https://github.com/leaningtech/cheerp-compiler
 - https://github.com/wasmerio/wasmer
 - https://github.com/bytecodealliance/wasmtime
+- https://github.com/friendlymatthew/gabagool [Snapshotable WebAssembly interpreter from scratch; full execution state serializable/suspendable/restorable; time-travel debugger; ~96% spec tests]
 
 ## Dynamic Binary Instrumentation
 - https://github.com/aengelke/instrew
