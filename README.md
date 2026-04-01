@@ -144,6 +144,7 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 - https://github.com/wwh1004/ollvm-16 [OLLVM 16]
 - https://github.com/za233/Polaris-Obfuscator [OLLVM 16]
 - https://github.com/killvxk/llvm-msvc-ex [OLLVM 18]
+- https://github.com/vertigo6622/ollvm-22 [OLLVM 22]
 - https://github.com/can1357/selene/tree/master/apollo-linker [DIY obfuscation linker]
 - https://github.com/djolertrk/kovid-obfuscation-passes [A set of LLVM and GCC based plugins that perform code obfustaion]
 - https://github.com/MrRoy09/VMwhere [regular ollvm]
