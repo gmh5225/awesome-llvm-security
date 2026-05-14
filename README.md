@@ -60,6 +60,7 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 - https://github.com/0xSh4dy/learning_llvm [Learning LLVM]
 - https://github.com/ksco/rvld [Learn how to write a minimal working linker from scratch]
 - https://github.com/ssloy/tinycompiler [Writing a compiler in a week-end]
+- https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir [A guide that explains how high level programming language constructs are mapped to the LLVM intermediate language]
 
 ## Papers
 - [SATURN: Software Deobfuscation Framework Based on LLVM](https://arxiv.org/pdf/1909.01752)
