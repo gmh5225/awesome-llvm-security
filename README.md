@@ -212,6 +212,7 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 - https://github.com/binsnake/picanha [claude opus x86_64 disassembler/lifter/recompiler]
 - https://github.com/binsnake/omill [Based remill]
 - https://github.com/momo5502/levo [Levo is an ahead-of-time binary translation toolchain]
+- https://github.com/LLVMParty/striga [Striga is an experimental lifter from x86_64 to LLVM IR written in Python]
 
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
