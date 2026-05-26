@@ -534,6 +534,7 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 - https://github.com/Fare9/MyCCompiler [C]
 - https://github.com/ITCraftDevelopmentTeam/SakuraE [A simple, compiled language]
 - https://github.com/lambdaclass/lambda_compiler_kit [Lambda Compiler Kit: formally verified toolkit for building compilers]
+- https://github.com/jlebar/vir [A formally-verified compiler IR (Lean), aiming at bidirectional translation with LLVM IR]
 - https://github.com/WiktorJanecki/lox-compiler [Lox to LLVM compiler written in rust]
 - https://github.com/odin-lang/Odin [Odin Programming Language]
 - https://github.com/verum-lang/verum [The Verum Programming Language]
