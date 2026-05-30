@@ -542,6 +542,7 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 - https://github.com/verum-lang/verum [The Verum Programming Language]
 - https://github.com/aallan/vera [Vera: a programming language designed for LLMs to write]
 - https://github.com/vercel-labs/zero [The programming language for agents]
+- https://github.com/krystophny/liric [Lightweight IR Compiler - fast JIT for LLVM IR and WASM]
 
 
 ## Out-of-tree LLVM pass
