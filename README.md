@@ -352,6 +352,7 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 - https://github.com/RealNeGate/Cuik [Modern C11]
 - https://github.com/tylerweston/ccc
 - https://github.com/kumachan-mis/umlcc [C]
+- https://github.com/sysprog21/shecc [A self-hosting and educational C optimizing compiler]
 - https://github.com/pizlonator/llvm-project-deluge [Fil-C]
 - https://github.com/lcompilers/lc [C++]
 - https://github.com/greydevv/cpp-compiler
