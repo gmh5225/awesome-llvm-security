@@ -82,6 +82,7 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 - https://github.com/Ylarod/goron [ndk21]
 - https://github.com/emc2314/YANSOllvm
 - https://github.com/HikariObfuscator/Hikari
+- https://github.com/HimitsuShell/HimitsuObfuscator
 - https://github.com/Lessica/HikariSummer
 - https://github.com/61bcdefg/Hikari-LLVM15
 - https://github.com/PPKunOfficial/Hikari-LLVM19
