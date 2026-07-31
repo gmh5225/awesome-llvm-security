@@ -82,7 +82,6 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 - https://github.com/Ylarod/goron [ndk21]
 - https://github.com/emc2314/YANSOllvm
 - https://github.com/HikariObfuscator/Hikari
-- https://github.com/HimitsuShell/HimitsuObfuscator
 - https://github.com/Lessica/HikariSummer
 - https://github.com/61bcdefg/Hikari-LLVM15
 - https://github.com/PPKunOfficial/Hikari-LLVM19
@@ -146,6 +145,7 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 - https://github.com/AimiP02/BronyaObfus [OLLVM 16]
 - https://github.com/wwh1004/ollvm-16 [OLLVM 16]
 - https://github.com/za233/Polaris-Obfuscator [OLLVM 16]
+- https://github.com/HimitsuShell/HimitsuObfuscator [OLLVM 17]
 - https://github.com/killvxk/llvm-msvc-ex [OLLVM 18]
 - https://github.com/90th/llvm-obfus [out-of-tree LLVM 21+ pass plugin for policy-driven IR obfuscation]
 - https://github.com/vertigo6622/ollvm-22 [OLLVM 22]
