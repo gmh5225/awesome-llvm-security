@@ -669,6 +669,7 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 - https://github.com/NewWorldComingSoon/UnknownField [Testing Obfuscated Field]
 - https://github.com/vaivaswatha/debugir [Debugging IR]
 - https://github.com/grotius-cnc/Qt_LLVM_App [Testing CPP2IR]
+- https://github.com/manasghandat/LLVM-Lens [Analyzes LLVM middle-end (opt) and backend (llc) pass pipelines on a source file and generates a static, self-contained HTML report for exploring pass behavior across IR and Machine IR]
 
 
 ## LLVM Tutorial
