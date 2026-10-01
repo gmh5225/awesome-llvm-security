@@ -349,6 +349,7 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 
 ## DIY Compiler
 - https://github.com/anthropics/claudes-c-compiler [Claude Opus 4.6 wrote a dependency-free C compiler in Rust]
+- https://github.com/edgcpp/compiler [EDG Compiler Project]
 - https://github.com/ethereum/solidity
 - https://github.com/gdumfi/solidity-llvm
 - https://github.com/gagliardetto/golang-lana [Compile Go to Solana programs via LLVM bitcode]
